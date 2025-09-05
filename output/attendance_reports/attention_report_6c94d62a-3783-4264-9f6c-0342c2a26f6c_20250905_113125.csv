@@ -1,0 +1,2 @@
+student_id,timestamp,attention_score,distraction_score,head_pose_x,head_pose_y,head_pose_z,eye_aspect_ratio,is_sleeping,phone_detected,cheating_probability
+Unknown,2025-09-05 06:01:25,0.0,1.0,0.0,0.0,0.0,0.0,0,0,0.0

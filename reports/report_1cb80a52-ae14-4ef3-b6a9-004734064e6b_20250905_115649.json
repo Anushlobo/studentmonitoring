@@ -1,0 +1,3219 @@
+{
+  "session_id": "1cb80a52-ae14-4ef3-b6a9-004734064e6b",
+  "session_type": "regular",
+  "session_duration": "N/A",
+  "total_frames_analyzed": 56,
+  "total_students_detected": 3,
+  "overall_statistics": {
+    "average_attention_score": 0.5231092436974794,
+    "average_cheating_probability": 0.0,
+    "total_analysis_frames": 56
+  },
+  "student_analyses": {
+    "Unknown": {
+      "average_attention": 0.5423076923076924,
+      "average_cheating_probability": 0.0,
+      "attention_level": "Fair",
+      "detection_count": 39,
+      "first_seen": "2025-09-05 11:53:58.248252",
+      "last_seen": "2025-09-05 11:56:49.061841"
+    },
+    "unknown_1": {
+      "average_attention": 0.35,
+      "average_cheating_probability": 0.0,
+      "attention_level": "Poor",
+      "detection_count": 5,
+      "first_seen": "2025-09-05 11:53:58.273499",
+      "last_seen": "2025-09-05 11:56:40.955439"
+    },
+    "glen": {
+      "average_attention": 0.5312499999999999,
+      "average_cheating_probability": 0.0,
+      "attention_level": "Fair",
+      "detection_count": 16,
+      "first_seen": "2025-09-05 11:53:58.392535",
+      "last_seen": "2025-09-05 11:56:46.336090"
+    },
+    "shahid": {
+      "average_attention": 0.7022727272727272,
+      "average_cheating_probability": 0.0,
+      "attention_level": "Good",
+      "detection_count": 22,
+      "first_seen": "2025-09-05 11:54:01.514520",
+      "last_seen": "2025-09-05 11:56:49.030906"
+    },
+    "unknown_0": {
+      "average_attention": 0.16333333333333336,
+      "average_cheating_probability": 0.0,
+      "attention_level": "Poor",
+      "detection_count": 15,
+      "first_seen": "2025-09-05 11:54:09.503966",
+      "last_seen": "2025-09-05 11:56:35.741779"
+    },
+    "reevan": {
+      "average_attention": 0.6475,
+      "average_cheating_probability": 0.0,
+      "attention_level": "Good",
+      "detection_count": 20,
+      "first_seen": "2025-09-05 11:54:30.705826",
+      "last_seen": "2025-09-05 11:56:41.154737"
+    },
+    "unknown_2": {
+      "average_attention": 0.0,
+      "average_cheating_probability": 0.0,
+      "attention_level": "Poor",
+      "detection_count": 2,
+      "first_seen": "2025-09-05 11:56:27.991203",
+      "last_seen": "2025-09-05 11:56:46.357920"
+    }
+  },
+  "attendance_data": {
+    "glen": {
+      "first_seen": "2025-09-05 11:53:58.443999",
+      "last_seen": "2025-09-05 11:56:46.342515",
+      "confidence": 1.0
+    },
+    "shahid": {
+      "first_seen": "2025-09-05 11:54:01.523056",
+      "last_seen": "2025-09-05 11:56:49.038768",
+      "confidence": 1.0
+    },
+    "reevan": {
+      "first_seen": "2025-09-05 11:54:30.713881",
+      "last_seen": "2025-09-05 11:56:41.161283",
+      "confidence": 1.0
+    }
+  },
+  "frame_analysis_results": [
+    {
+      "frame_number": 1,
+      "timestamp": "2025-09-05 11:53:58.477376",
+      "results": [
+        {
+          "frame_number": 1,
+          "timestamp": "2025-09-05 11:53:58.248252",
+          "student_id": "Unknown",
+          "recognition_confidence": 1.0,
+          "detection_bbox": [
+            898,
+            410,
+            975,
+            532
+          ],
+          "attention_score": 0.75,
+          "distraction_score": 0.25,
+          "head_pose_x": 0.0,
+          "head_pose_y": 59.4035191140935,
+          "head_pose_z": -25.15320647584376,
+          "eye_aspect_ratio": 0.4568571746370451,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": true
+        },
+        {
+          "frame_number": 1,
+          "timestamp": "2025-09-05 11:53:58.273499",
+          "student_id": "unknown_1",
+          "recognition_confidence": 0.0,
+          "detection_bbox": [
+            427,
+            443,
+            509,
+            558
+          ],
+          "attention_score": 0.0,
+          "distraction_score": 1.0,
+          "head_pose_x": 0.0,
+          "head_pose_y": 0.0,
+          "head_pose_z": 0.0,
+          "eye_aspect_ratio": 0.0,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": false
+        },
+        {
+          "frame_number": 1,
+          "timestamp": "2025-09-05 11:53:58.392535",
+          "student_id": "glen",
+          "recognition_confidence": 1.0,
+          "detection_bbox": [
+            297,
+            438,
+            369,
+            557
+          ],
+          "attention_score": 0.75,
+          "distraction_score": 0.25,
+          "head_pose_x": 0.0,
+          "head_pose_y": 46.358001879770136,
+          "head_pose_z": -23.802247882262908,
+          "eye_aspect_ratio": 0.34923915465085226,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": true
+        }
+      ],
+      "total_students": 3
+    },
+    {
+      "frame_number": 2,
+      "timestamp": "2025-09-05 11:54:01.547408",
+      "results": [
+        {
+          "frame_number": 2,
+          "timestamp": "2025-09-05 11:54:01.182856",
+          "student_id": "Unknown",
+          "recognition_confidence": 1.0,
+          "detection_bbox": [
+            461,
+            489,
+            582,
+            652
+          ],
+          "attention_score": 0.85,
+          "distraction_score": 0.15000000000000002,
+          "head_pose_x": 0.0,
+          "head_pose_y": 37.75890553365449,
+          "head_pose_z": -19.536374554547415,
+          "eye_aspect_ratio": 0.295706843466434,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": true
+        },
+        {
+          "frame_number": 2,
+          "timestamp": "2025-09-05 11:54:01.287111",
+          "student_id": "Unknown",
+          "recognition_confidence": 1.0,
+          "detection_bbox": [
+            297,
+            437,
+            383,
+            569
+          ],
+          "attention_score": 0.75,
+          "distraction_score": 0.25,
+          "head_pose_x": 0.0,
+          "head_pose_y": 56.80952812154728,
+          "head_pose_z": -17.429864660227,
+          "eye_aspect_ratio": 0.3189710624646703,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": true
+        },
+        {
+          "frame_number": 2,
+          "timestamp": "2025-09-05 11:54:01.407402",
+          "student_id": "glen",
+          "recognition_confidence": 1.0,
+          "detection_bbox": [
+            610,
+            421,
+            721,
+            573
+          ],
+          "attention_score": 0.7,
+          "distraction_score": 0.30000000000000004,
+          "head_pose_x": 0.0,
+          "head_pose_y": 29.782227727083942,
+          "head_pose_z": -4.283650109126999,
+          "eye_aspect_ratio": 0.09668245191906527,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": true
+        },
+        {
+          "frame_number": 2,
+          "timestamp": "2025-09-05 11:54:01.514520",
+          "student_id": "shahid",
+          "recognition_confidence": 1.0,
+          "detection_bbox": [
+            517,
+            428,
+            613,
+            572
+          ],
+          "attention_score": 0.75,
+          "distraction_score": 0.25,
+          "head_pose_x": 0.0,
+          "head_pose_y": 55.71477818268466,
+          "head_pose_z": 3.9555930651106723,
+          "eye_aspect_ratio": 0.3081862749704036,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": true
+        }
+      ],
+      "total_students": 4
+    },
+    {
+      "frame_number": 3,
+      "timestamp": "2025-09-05 11:54:04.312038",
+      "results": [
+        {
+          "frame_number": 3,
+          "timestamp": "2025-09-05 11:54:04.108136",
+          "student_id": "Unknown",
+          "recognition_confidence": 1.0,
+          "detection_bbox": [
+            454,
+            495,
+            588,
+            656
+          ],
+          "attention_score": 0.85,
+          "distraction_score": 0.15000000000000002,
+          "head_pose_x": 0.0,
+          "head_pose_y": 62.48162264919033,
+          "head_pose_z": -4.288755764511981,
+          "eye_aspect_ratio": 0.245724848397829,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": true
+        },
+        {
+          "frame_number": 3,
+          "timestamp": "2025-09-05 11:54:04.146427",
+          "student_id": "shahid",
+          "recognition_confidence": 1.0,
+          "detection_bbox": [
+            523,
+            422,
+            622,
+            569
+          ],
+          "attention_score": 0.0,
+          "distraction_score": 1.0,
+          "head_pose_x": 0.0,
+          "head_pose_y": 0.0,
+          "head_pose_z": 0.0,
+          "eye_aspect_ratio": 0.0,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": false
+        },
+        {
+          "frame_number": 3,
+          "timestamp": "2025-09-05 11:54:04.187433",
+          "student_id": "glen",
+          "recognition_confidence": 1.0,
+          "detection_bbox": [
+            617,
+            429,
+            716,
+            569
+          ],
+          "attention_score": 0.0,
+          "distraction_score": 1.0,
+          "head_pose_x": 0.0,
+          "head_pose_y": 0.0,
+          "head_pose_z": 0.0,
+          "eye_aspect_ratio": 0.0,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": false
+        },
+        {
+          "frame_number": 3,
+          "timestamp": "2025-09-05 11:54:04.285086",
+          "student_id": "shahid",
+          "recognition_confidence": 1.0,
+          "detection_bbox": [
+            297,
+            440,
+            378,
+            571
+          ],
+          "attention_score": 0.5499999999999999,
+          "distraction_score": 0.45000000000000007,
+          "head_pose_x": 0.0,
+          "head_pose_y": 30.02578059071151,
+          "head_pose_z": -7.203296888445545,
+          "eye_aspect_ratio": 0.11109730171898108,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": true
+        }
+      ],
+      "total_students": 4
+    },
+    {
+      "frame_number": 4,
+      "timestamp": "2025-09-05 11:54:06.944796",
+      "results": [
+        {
+          "frame_number": 4,
+          "timestamp": "2025-09-05 11:54:06.915423",
+          "student_id": "glen",
+          "recognition_confidence": 1.0,
+          "detection_bbox": [
+            457,
+            495,
+            590,
+            655
+          ],
+          "attention_score": 0.85,
+          "distraction_score": 0.15000000000000002,
+          "head_pose_x": 0.0,
+          "head_pose_y": 43.71130278511964,
+          "head_pose_z": 14.709386439157381,
+          "eye_aspect_ratio": 0.258620518517802,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": true
+        }
+      ],
+      "total_students": 1
+    },
+    {
+      "frame_number": 5,
+      "timestamp": "2025-09-05 11:54:09.763971",
+      "results": [
+        {
+          "frame_number": 5,
+          "timestamp": "2025-09-05 11:54:09.503966",
+          "student_id": "unknown_0",
+          "recognition_confidence": 0.0,
+          "detection_bbox": [
+            1188,
+            416,
+            1279,
+            688
+          ],
+          "attention_score": 0.75,
+          "distraction_score": 0.25,
+          "head_pose_x": 0.0,
+          "head_pose_y": 56.448194778474004,
+          "head_pose_z": 37.05023929462498,
+          "eye_aspect_ratio": 0.4252470258679887,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": true
+        },
+        {
+          "frame_number": 5,
+          "timestamp": "2025-09-05 11:54:09.628667",
+          "student_id": "Unknown",
+          "recognition_confidence": 1.0,
+          "detection_bbox": [
+            604,
+            429,
+            714,
+            566
+          ],
+          "attention_score": 0.85,
+          "distraction_score": 0.15000000000000002,
+          "head_pose_x": 0.0,
+          "head_pose_y": 44.244556767865205,
+          "head_pose_z": -7.470974211744951,
+          "eye_aspect_ratio": 0.3410796184529862,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": true
+        },
+        {
+          "frame_number": 5,
+          "timestamp": "2025-09-05 11:54:09.737880",
+          "student_id": "glen",
+          "recognition_confidence": 1.0,
+          "detection_bbox": [
+            464,
+            446,
+            611,
+            632
+          ],
+          "attention_score": 1.0,
+          "distraction_score": 0.0,
+          "head_pose_x": 0.0,
+          "head_pose_y": 0.0,
+          "head_pose_z": 0.0,
+          "eye_aspect_ratio": 0.503195984473767,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": true
+        }
+      ],
+      "total_students": 3
+    },
+    {
+      "frame_number": 6,
+      "timestamp": "2025-09-05 11:54:12.536852",
+      "results": [
+        {
+          "frame_number": 6,
+          "timestamp": "2025-09-05 11:54:12.294330",
+          "student_id": "glen",
+          "recognition_confidence": 1.0,
+          "detection_bbox": [
+            1192,
+            417,
+            1279,
+            690
+          ],
+          "attention_score": 0.0,
+          "distraction_score": 1.0,
+          "head_pose_x": 0.0,
+          "head_pose_y": 0.0,
+          "head_pose_z": 0.0,
+          "eye_aspect_ratio": 0.0,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": false
+        },
+        {
+          "frame_number": 6,
+          "timestamp": "2025-09-05 11:54:12.396423",
+          "student_id": "glen",
+          "recognition_confidence": 1.0,
+          "detection_bbox": [
+            1166,
+            417,
+            1222,
+            498
+          ],
+          "attention_score": 0.7,
+          "distraction_score": 0.30000000000000004,
+          "head_pose_x": 0.0,
+          "head_pose_y": 28.48078120519936,
+          "head_pose_z": -4.904068107529732,
+          "eye_aspect_ratio": 0.16812214897128022,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": true
+        },
+        {
+          "frame_number": 6,
+          "timestamp": "2025-09-05 11:54:12.511004",
+          "student_id": "shahid",
+          "recognition_confidence": 1.0,
+          "detection_bbox": [
+            454,
+            491,
+            571,
+            643
+          ],
+          "attention_score": 0.85,
+          "distraction_score": 0.15000000000000002,
+          "head_pose_x": 0.0,
+          "head_pose_y": 32.877343024108065,
+          "head_pose_z": 7.611793200206886,
+          "eye_aspect_ratio": 0.2339483792867542,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": true
+        }
+      ],
+      "total_students": 3
+    },
+    {
+      "frame_number": 7,
+      "timestamp": "2025-09-05 11:54:15.126385",
+      "results": [
+        {
+          "frame_number": 7,
+          "timestamp": "2025-09-05 11:54:14.996684",
+          "student_id": "Unknown",
+          "recognition_confidence": 1.0,
+          "detection_bbox": [
+            1189,
+            413,
+            1279,
+            710
+          ],
+          "attention_score": 0.0,
+          "distraction_score": 1.0,
+          "head_pose_x": 0.0,
+          "head_pose_y": 0.0,
+          "head_pose_z": 0.0,
+          "eye_aspect_ratio": 0.0,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": false
+        },
+        {
+          "frame_number": 7,
+          "timestamp": "2025-09-05 11:54:15.099905",
+          "student_id": "shahid",
+          "recognition_confidence": 1.0,
+          "detection_bbox": [
+            1124,
+            447,
+            1208,
+            589
+          ],
+          "attention_score": 0.85,
+          "distraction_score": 0.15000000000000002,
+          "head_pose_x": 0.0,
+          "head_pose_y": 40.429559995939734,
+          "head_pose_z": -2.1159403162590196,
+          "eye_aspect_ratio": 0.2532842311873789,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": true
+        }
+      ],
+      "total_students": 2
+    },
+    {
+      "frame_number": 8,
+      "timestamp": "2025-09-05 11:54:17.584217",
+      "results": [
+        {
+          "frame_number": 8,
+          "timestamp": "2025-09-05 11:54:17.556500",
+          "student_id": "unknown_0",
+          "recognition_confidence": 0.0,
+          "detection_bbox": [
+            1185,
+            417,
+            1279,
+            694
+          ],
+          "attention_score": 0.0,
+          "distraction_score": 1.0,
+          "head_pose_x": 0.0,
+          "head_pose_y": 0.0,
+          "head_pose_z": 0.0,
+          "eye_aspect_ratio": 0.0,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": false
+        }
+      ],
+      "total_students": 1
+    },
+    {
+      "frame_number": 9,
+      "timestamp": "2025-09-05 11:54:20.282969",
+      "results": [
+        {
+          "frame_number": 9,
+          "timestamp": "2025-09-05 11:54:20.222127",
+          "student_id": "Unknown",
+          "recognition_confidence": 1.0,
+          "detection_bbox": [
+            1184,
+            418,
+            1279,
+            694
+          ],
+          "attention_score": 0.0,
+          "distraction_score": 1.0,
+          "head_pose_x": 0.0,
+          "head_pose_y": 0.0,
+          "head_pose_z": 0.0,
+          "eye_aspect_ratio": 0.0,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": false
+        },
+        {
+          "frame_number": 9,
+          "timestamp": "2025-09-05 11:54:20.252932",
+          "student_id": "Unknown",
+          "recognition_confidence": 1.0,
+          "detection_bbox": [
+            867,
+            396,
+            948,
+            497
+          ],
+          "attention_score": 0.0,
+          "distraction_score": 1.0,
+          "head_pose_x": 0.0,
+          "head_pose_y": 0.0,
+          "head_pose_z": 0.0,
+          "eye_aspect_ratio": 0.0,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": false
+        }
+      ],
+      "total_students": 2
+    },
+    {
+      "frame_number": 10,
+      "timestamp": "2025-09-05 11:54:23.022064",
+      "results": [
+        {
+          "frame_number": 10,
+          "timestamp": "2025-09-05 11:54:22.876855",
+          "student_id": "Unknown",
+          "recognition_confidence": 0.9025,
+          "detection_bbox": [
+            1195,
+            429,
+            1279,
+            694
+          ],
+          "attention_score": 0.0,
+          "distraction_score": 1.0,
+          "head_pose_x": 0.0,
+          "head_pose_y": 0.0,
+          "head_pose_z": 0.0,
+          "eye_aspect_ratio": 0.0,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": false
+        },
+        {
+          "frame_number": 10,
+          "timestamp": "2025-09-05 11:54:22.995742",
+          "student_id": "Unknown",
+          "recognition_confidence": 1.0,
+          "detection_bbox": [
+            504,
+            435,
+            608,
+            572
+          ],
+          "attention_score": 0.85,
+          "distraction_score": 0.15000000000000002,
+          "head_pose_x": 0.0,
+          "head_pose_y": 37.383856242472916,
+          "head_pose_z": 5.275687406872819,
+          "eye_aspect_ratio": 0.20188988197116953,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": true
+        }
+      ],
+      "total_students": 2
+    },
+    {
+      "frame_number": 11,
+      "timestamp": "2025-09-05 11:54:25.646970",
+      "results": [
+        {
+          "frame_number": 11,
+          "timestamp": "2025-09-05 11:54:25.490139",
+          "student_id": "unknown_0",
+          "recognition_confidence": 0.0,
+          "detection_bbox": [
+            1123,
+            392,
+            1279,
+            665
+          ],
+          "attention_score": 0.0,
+          "distraction_score": 1.0,
+          "head_pose_x": 0.0,
+          "head_pose_y": 0.0,
+          "head_pose_z": 0.0,
+          "eye_aspect_ratio": 0.0,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": false
+        },
+        {
+          "frame_number": 11,
+          "timestamp": "2025-09-05 11:54:25.620005",
+          "student_id": "shahid",
+          "recognition_confidence": 1.0,
+          "detection_bbox": [
+            512,
+            441,
+            606,
+            570
+          ],
+          "attention_score": 0.85,
+          "distraction_score": 0.15000000000000002,
+          "head_pose_x": 0.0,
+          "head_pose_y": 38.35840828575297,
+          "head_pose_z": -5.052046737632113,
+          "eye_aspect_ratio": 0.29138826839753285,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": true
+        }
+      ],
+      "total_students": 2
+    },
+    {
+      "frame_number": 13,
+      "timestamp": "2025-09-05 11:54:30.740808",
+      "results": [
+        {
+          "frame_number": 13,
+          "timestamp": "2025-09-05 11:54:30.705826",
+          "student_id": "reevan",
+          "recognition_confidence": 1.0,
+          "detection_bbox": [
+            1203,
+            338,
+            1279,
+            717
+          ],
+          "attention_score": 0.0,
+          "distraction_score": 1.0,
+          "head_pose_x": 0.0,
+          "head_pose_y": 0.0,
+          "head_pose_z": 0.0,
+          "eye_aspect_ratio": 0.0,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": false
+        }
+      ],
+      "total_students": 1
+    },
+    {
+      "frame_number": 14,
+      "timestamp": "2025-09-05 11:54:33.859497",
+      "results": [
+        {
+          "frame_number": 14,
+          "timestamp": "2025-09-05 11:54:33.605598",
+          "student_id": "shahid",
+          "recognition_confidence": 1.0,
+          "detection_bbox": [
+            299,
+            438,
+            379,
+            579
+          ],
+          "attention_score": 0.85,
+          "distraction_score": 0.15000000000000002,
+          "head_pose_x": 0.0,
+          "head_pose_y": 37.1702800993446,
+          "head_pose_z": -8.58396490144553,
+          "eye_aspect_ratio": 0.2573112988157954,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": true
+        },
+        {
+          "frame_number": 14,
+          "timestamp": "2025-09-05 11:54:33.729114",
+          "student_id": "Unknown",
+          "recognition_confidence": 1.0,
+          "detection_bbox": [
+            1132,
+            442,
+            1242,
+            589
+          ],
+          "attention_score": 0.85,
+          "distraction_score": 0.15000000000000002,
+          "head_pose_x": 0.0,
+          "head_pose_y": 51.89602967810471,
+          "head_pose_z": 13.431990368509101,
+          "eye_aspect_ratio": 0.3768826385913166,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": true
+        },
+        {
+          "frame_number": 14,
+          "timestamp": "2025-09-05 11:54:33.832641",
+          "student_id": "Unknown",
+          "recognition_confidence": 1.0,
+          "detection_bbox": [
+            619,
+            436,
+            729,
+            572
+          ],
+          "attention_score": 0.85,
+          "distraction_score": 0.15000000000000002,
+          "head_pose_x": 0.0,
+          "head_pose_y": 43.82548619367325,
+          "head_pose_z": -13.104357556002524,
+          "eye_aspect_ratio": 0.2537538559255863,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": true
+        }
+      ],
+      "total_students": 3
+    },
+    {
+      "frame_number": 15,
+      "timestamp": "2025-09-05 11:54:36.356180",
+      "results": [
+        {
+          "frame_number": 15,
+          "timestamp": "2025-09-05 11:54:36.329629",
+          "student_id": "unknown_0",
+          "recognition_confidence": 0.0,
+          "detection_bbox": [
+            300,
+            442,
+            379,
+            571
+          ],
+          "attention_score": 0.0,
+          "distraction_score": 1.0,
+          "head_pose_x": 0.0,
+          "head_pose_y": 0.0,
+          "head_pose_z": 0.0,
+          "eye_aspect_ratio": 0.0,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": false
+        }
+      ],
+      "total_students": 1
+    },
+    {
+      "frame_number": 16,
+      "timestamp": "2025-09-05 11:54:38.975048",
+      "results": [
+        {
+          "frame_number": 16,
+          "timestamp": "2025-09-05 11:54:38.945894",
+          "student_id": "shahid",
+          "recognition_confidence": 1.0,
+          "detection_bbox": [
+            301,
+            435,
+            384,
+            569
+          ],
+          "attention_score": 0.5499999999999999,
+          "distraction_score": 0.45000000000000007,
+          "head_pose_x": 0.0,
+          "head_pose_y": 30.305092300887985,
+          "head_pose_z": -2.5624806321021136,
+          "eye_aspect_ratio": 0.09779098538978842,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": true
+        }
+      ],
+      "total_students": 1
+    },
+    {
+      "frame_number": 17,
+      "timestamp": "2025-09-05 11:54:41.645498",
+      "results": [
+        {
+          "frame_number": 17,
+          "timestamp": "2025-09-05 11:54:41.516101",
+          "student_id": "shahid",
+          "recognition_confidence": 1.0,
+          "detection_bbox": [
+            973,
+            455,
+            1075,
+            584
+          ],
+          "attention_score": 0.5499999999999999,
+          "distraction_score": 0.45000000000000007,
+          "head_pose_x": 0.0,
+          "head_pose_y": 32.62347967251233,
+          "head_pose_z": 3.570560035469545,
+          "eye_aspect_ratio": 0.16868381033370758,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": true
+        },
+        {
+          "frame_number": 17,
+          "timestamp": "2025-09-05 11:54:41.620236",
+          "student_id": "shahid",
+          "recognition_confidence": 1.0,
+          "detection_bbox": [
+            299,
+            425,
+            384,
+            569
+          ],
+          "attention_score": 0.5499999999999999,
+          "distraction_score": 0.45000000000000007,
+          "head_pose_x": 0.0,
+          "head_pose_y": 34.38714803140795,
+          "head_pose_z": 9.773820581593665,
+          "eye_aspect_ratio": 0.15935905137654743,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": true
+        }
+      ],
+      "total_students": 2
+    },
+    {
+      "frame_number": 18,
+      "timestamp": "2025-09-05 11:54:44.258482",
+      "results": [
+        {
+          "frame_number": 18,
+          "timestamp": "2025-09-05 11:54:44.129476",
+          "student_id": "Unknown",
+          "recognition_confidence": 1.0,
+          "detection_bbox": [
+            1030,
+            333,
+            1279,
+            715
+          ],
+          "attention_score": 0.0,
+          "distraction_score": 1.0,
+          "head_pose_x": 0.0,
+          "head_pose_y": 0.0,
+          "head_pose_z": 0.0,
+          "eye_aspect_ratio": 0.0,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": false
+        },
+        {
+          "frame_number": 18,
+          "timestamp": "2025-09-05 11:54:44.232656",
+          "student_id": "Unknown",
+          "recognition_confidence": 1.0,
+          "detection_bbox": [
+            301,
+            430,
+            377,
+            573
+          ],
+          "attention_score": 0.5499999999999999,
+          "distraction_score": 0.45000000000000007,
+          "head_pose_x": 0.0,
+          "head_pose_y": 32.62805159720294,
+          "head_pose_z": -1.8101006551874212,
+          "eye_aspect_ratio": 0.10592200214337533,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": true
+        }
+      ],
+      "total_students": 2
+    },
+    {
+      "frame_number": 20,
+      "timestamp": "2025-09-05 11:54:49.322288",
+      "results": [
+        {
+          "frame_number": 20,
+          "timestamp": "2025-09-05 11:54:49.185186",
+          "student_id": "unknown_0",
+          "recognition_confidence": 0.0,
+          "detection_bbox": [
+            1139,
+            336,
+            1279,
+            720
+          ],
+          "attention_score": 0.0,
+          "distraction_score": 1.0,
+          "head_pose_x": 0.0,
+          "head_pose_y": 0.0,
+          "head_pose_z": 0.0,
+          "eye_aspect_ratio": 0.0,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": false
+        },
+        {
+          "frame_number": 20,
+          "timestamp": "2025-09-05 11:54:49.294116",
+          "student_id": "shahid",
+          "recognition_confidence": 1.0,
+          "detection_bbox": [
+            292,
+            463,
+            448,
+            656
+          ],
+          "attention_score": 0.85,
+          "distraction_score": 0.15000000000000002,
+          "head_pose_x": 0.0,
+          "head_pose_y": 32.99712877326998,
+          "head_pose_z": -14.199591404086402,
+          "eye_aspect_ratio": 0.3379478122179413,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": true
+        }
+      ],
+      "total_students": 2
+    },
+    {
+      "frame_number": 22,
+      "timestamp": "2025-09-05 11:54:54.526996",
+      "results": [
+        {
+          "frame_number": 22,
+          "timestamp": "2025-09-05 11:54:54.496905",
+          "student_id": "reevan",
+          "recognition_confidence": 1.0,
+          "detection_bbox": [
+            299,
+            463,
+            438,
+            648
+          ],
+          "attention_score": 0.85,
+          "distraction_score": 0.15000000000000002,
+          "head_pose_x": 0.0,
+          "head_pose_y": 65.7976470378639,
+          "head_pose_z": 0.24934004870358473,
+          "eye_aspect_ratio": 0.28989361400840846,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": true
+        }
+      ],
+      "total_students": 1
+    },
+    {
+      "frame_number": 23,
+      "timestamp": "2025-09-05 11:54:57.137784",
+      "results": [
+        {
+          "frame_number": 23,
+          "timestamp": "2025-09-05 11:54:56.963744",
+          "student_id": "unknown_0",
+          "recognition_confidence": 0.0,
+          "detection_bbox": [
+            1064,
+            336,
+            1279,
+            717
+          ],
+          "attention_score": 0.0,
+          "distraction_score": 1.0,
+          "head_pose_x": 0.0,
+          "head_pose_y": 0.0,
+          "head_pose_z": 0.0,
+          "eye_aspect_ratio": 0.0,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": false
+        },
+        {
+          "frame_number": 23,
+          "timestamp": "2025-09-05 11:54:57.077585",
+          "student_id": "reevan",
+          "recognition_confidence": 1.0,
+          "detection_bbox": [
+            989,
+            463,
+            1071,
+            583
+          ],
+          "attention_score": 0.85,
+          "distraction_score": 0.15000000000000002,
+          "head_pose_x": 0.0,
+          "head_pose_y": 37.164715217317344,
+          "head_pose_z": -6.934599046626339,
+          "eye_aspect_ratio": 0.3074854596576486,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": true
+        },
+        {
+          "frame_number": 23,
+          "timestamp": "2025-09-05 11:54:57.111395",
+          "student_id": "reevan",
+          "recognition_confidence": 1.0,
+          "detection_bbox": [
+            934,
+            432,
+            1015,
+            532
+          ],
+          "attention_score": 0.0,
+          "distraction_score": 1.0,
+          "head_pose_x": 0.0,
+          "head_pose_y": 0.0,
+          "head_pose_z": 0.0,
+          "eye_aspect_ratio": 0.0,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": false
+        }
+      ],
+      "total_students": 3
+    },
+    {
+      "frame_number": 25,
+      "timestamp": "2025-09-05 11:55:02.356011",
+      "results": [
+        {
+          "frame_number": 25,
+          "timestamp": "2025-09-05 11:55:02.206620",
+          "student_id": "reevan",
+          "recognition_confidence": 1.0,
+          "detection_bbox": [
+            623,
+            437,
+            721,
+            570
+          ],
+          "attention_score": 0.85,
+          "distraction_score": 0.15000000000000002,
+          "head_pose_x": 0.0,
+          "head_pose_y": 66.48620456628795,
+          "head_pose_z": 3.4848948635539276,
+          "eye_aspect_ratio": 0.34072065277545127,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": true
+        },
+        {
+          "frame_number": 25,
+          "timestamp": "2025-09-05 11:55:02.330831",
+          "student_id": "reevan",
+          "recognition_confidence": 1.0,
+          "detection_bbox": [
+            805,
+            407,
+            937,
+            649
+          ],
+          "attention_score": 0.7,
+          "distraction_score": 0.30000000000000004,
+          "head_pose_x": 0.0,
+          "head_pose_y": 23.308532148423293,
+          "head_pose_z": 13.339910670955147,
+          "eye_aspect_ratio": 0.13686348308479188,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": true
+        }
+      ],
+      "total_students": 2
+    },
+    {
+      "frame_number": 26,
+      "timestamp": "2025-09-05 11:55:05.237986",
+      "results": [
+        {
+          "frame_number": 26,
+          "timestamp": "2025-09-05 11:55:05.081460",
+          "student_id": "reevan",
+          "recognition_confidence": 1.0,
+          "detection_bbox": [
+            473,
+            493,
+            594,
+            642
+          ],
+          "attention_score": 0.75,
+          "distraction_score": 0.25,
+          "head_pose_x": 0.0,
+          "head_pose_y": 52.448522033423075,
+          "head_pose_z": -9.528764603936978,
+          "eye_aspect_ratio": 0.26273282998789754,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": true
+        },
+        {
+          "frame_number": 26,
+          "timestamp": "2025-09-05 11:55:05.212981",
+          "student_id": "shahid",
+          "recognition_confidence": 0.9025,
+          "detection_bbox": [
+            939,
+            428,
+            1016,
+            534
+          ],
+          "attention_score": 1.0,
+          "distraction_score": 0.0,
+          "head_pose_x": 0.0,
+          "head_pose_y": 19.35104679268746,
+          "head_pose_z": -10.656698394034285,
+          "eye_aspect_ratio": 0.2560381600096503,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": true
+        }
+      ],
+      "total_students": 2
+    },
+    {
+      "frame_number": 27,
+      "timestamp": "2025-09-05 11:55:07.738356",
+      "results": [
+        {
+          "frame_number": 27,
+          "timestamp": "2025-09-05 11:55:07.711113",
+          "student_id": "Unknown",
+          "recognition_confidence": 1.0,
+          "detection_bbox": [
+            621,
+            435,
+            718,
+            570
+          ],
+          "attention_score": 0.0,
+          "distraction_score": 1.0,
+          "head_pose_x": 0.0,
+          "head_pose_y": 0.0,
+          "head_pose_z": 0.0,
+          "eye_aspect_ratio": 0.0,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": false
+        }
+      ],
+      "total_students": 1
+    },
+    {
+      "frame_number": 28,
+      "timestamp": "2025-09-05 11:55:10.461175",
+      "results": [
+        {
+          "frame_number": 28,
+          "timestamp": "2025-09-05 11:55:10.303468",
+          "student_id": "Unknown",
+          "recognition_confidence": 1.0,
+          "detection_bbox": [
+            1127,
+            447,
+            1242,
+            586
+          ],
+          "attention_score": 0.85,
+          "distraction_score": 0.15000000000000002,
+          "head_pose_x": 0.0,
+          "head_pose_y": 39.37306871675558,
+          "head_pose_z": 14.611062929265971,
+          "eye_aspect_ratio": 0.36215099005984047,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": true
+        },
+        {
+          "frame_number": 28,
+          "timestamp": "2025-09-05 11:55:10.338542",
+          "student_id": "Unknown",
+          "recognition_confidence": 1.0,
+          "detection_bbox": [
+            620,
+            435,
+            731,
+            572
+          ],
+          "attention_score": 0.0,
+          "distraction_score": 1.0,
+          "head_pose_x": 0.0,
+          "head_pose_y": 0.0,
+          "head_pose_z": 0.0,
+          "eye_aspect_ratio": 0.0,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": false
+        },
+        {
+          "frame_number": 28,
+          "timestamp": "2025-09-05 11:55:10.435965",
+          "student_id": "reevan",
+          "recognition_confidence": 1.0,
+          "detection_bbox": [
+            284,
+            455,
+            367,
+            565
+          ],
+          "attention_score": 1.0,
+          "distraction_score": 0.0,
+          "head_pose_x": 0.0,
+          "head_pose_y": 28.671410721157855,
+          "head_pose_z": -17.99307322133589,
+          "eye_aspect_ratio": 0.2306031751542223,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": true
+        }
+      ],
+      "total_students": 3
+    },
+    {
+      "frame_number": 29,
+      "timestamp": "2025-09-05 11:55:12.916689",
+      "results": [
+        {
+          "frame_number": 29,
+          "timestamp": "2025-09-05 11:55:12.888626",
+          "student_id": "shahid",
+          "recognition_confidence": 1.0,
+          "detection_bbox": [
+            925,
+            409,
+            1012,
+            538
+          ],
+          "attention_score": 0.75,
+          "distraction_score": 0.25,
+          "head_pose_x": 0.0,
+          "head_pose_y": 69.59041801128679,
+          "head_pose_z": -5.757648524778176,
+          "eye_aspect_ratio": 0.5062502747035915,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": true
+        }
+      ],
+      "total_students": 1
+    },
+    {
+      "frame_number": 30,
+      "timestamp": "2025-09-05 11:55:15.230617",
+      "results": [
+        {
+          "frame_number": 30,
+          "timestamp": "2025-09-05 11:55:15.205522",
+          "student_id": "glen",
+          "recognition_confidence": 1.0,
+          "detection_bbox": [
+            805,
+            410,
+            939,
+            654
+          ],
+          "attention_score": 0.0,
+          "distraction_score": 1.0,
+          "head_pose_x": 0.0,
+          "head_pose_y": 0.0,
+          "head_pose_z": 0.0,
+          "eye_aspect_ratio": 0.0,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": false
+        }
+      ],
+      "total_students": 1
+    },
+    {
+      "frame_number": 32,
+      "timestamp": "2025-09-05 11:55:20.123623",
+      "results": [
+        {
+          "frame_number": 32,
+          "timestamp": "2025-09-05 11:55:20.001841",
+          "student_id": "shahid",
+          "recognition_confidence": 1.0,
+          "detection_bbox": [
+            186,
+            453,
+            338,
+            636
+          ],
+          "attention_score": 0.5499999999999999,
+          "distraction_score": 0.45000000000000007,
+          "head_pose_x": 0.0,
+          "head_pose_y": 32.34054804258531,
+          "head_pose_z": 6.1697485940821775,
+          "eye_aspect_ratio": 0.17224719929273388,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": true
+        },
+        {
+          "frame_number": 32,
+          "timestamp": "2025-09-05 11:55:20.098408",
+          "student_id": "unknown_1",
+          "recognition_confidence": 0.0,
+          "detection_bbox": [
+            334,
+            478,
+            467,
+            638
+          ],
+          "attention_score": 1.0,
+          "distraction_score": 0.0,
+          "head_pose_x": 0.0,
+          "head_pose_y": 26.31022861864273,
+          "head_pose_z": 6.1739563253052046,
+          "eye_aspect_ratio": 0.2306322384833468,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": true
+        }
+      ],
+      "total_students": 2
+    },
+    {
+      "frame_number": 33,
+      "timestamp": "2025-09-05 11:55:23.139796",
+      "results": [
+        {
+          "frame_number": 33,
+          "timestamp": "2025-09-05 11:55:22.668606",
+          "student_id": "unknown_0",
+          "recognition_confidence": 0.0,
+          "detection_bbox": [
+            1048,
+            330,
+            1279,
+            715
+          ],
+          "attention_score": 0.0,
+          "distraction_score": 1.0,
+          "head_pose_x": 0.0,
+          "head_pose_y": 0.0,
+          "head_pose_z": 0.0,
+          "eye_aspect_ratio": 0.0,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": false
+        },
+        {
+          "frame_number": 33,
+          "timestamp": "2025-09-05 11:55:22.785059",
+          "student_id": "glen",
+          "recognition_confidence": 1.0,
+          "detection_bbox": [
+            188,
+            453,
+            333,
+            634
+          ],
+          "attention_score": 0.5499999999999999,
+          "distraction_score": 0.45000000000000007,
+          "head_pose_x": 0.0,
+          "head_pose_y": 31.74965743847162,
+          "head_pose_z": 3.794453656862629,
+          "eye_aspect_ratio": 0.1643997774380001,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": true
+        },
+        {
+          "frame_number": 33,
+          "timestamp": "2025-09-05 11:55:22.900890",
+          "student_id": "Unknown",
+          "recognition_confidence": 1.0,
+          "detection_bbox": [
+            333,
+            478,
+            466,
+            638
+          ],
+          "attention_score": 0.5499999999999999,
+          "distraction_score": 0.45000000000000007,
+          "head_pose_x": 0.0,
+          "head_pose_y": 41.85867720596153,
+          "head_pose_z": -6.086256532524145,
+          "eye_aspect_ratio": 0.16271435579611293,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": true
+        },
+        {
+          "frame_number": 33,
+          "timestamp": "2025-09-05 11:55:23.005037",
+          "student_id": "reevan",
+          "recognition_confidence": 1.0,
+          "detection_bbox": [
+            987,
+            458,
+            1055,
+            586
+          ],
+          "attention_score": 1.0,
+          "distraction_score": 0.0,
+          "head_pose_x": 0.0,
+          "head_pose_y": 29.815650664518408,
+          "head_pose_z": -9.84602803715767,
+          "eye_aspect_ratio": 0.2954017939433632,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": true
+        },
+        {
+          "frame_number": 33,
+          "timestamp": "2025-09-05 11:55:23.113689",
+          "student_id": "reevan",
+          "recognition_confidence": 1.0,
+          "detection_bbox": [
+            810,
+            407,
+            921,
+            657
+          ],
+          "attention_score": 1.0,
+          "distraction_score": 0.0,
+          "head_pose_x": 0.0,
+          "head_pose_y": 23.713782770324663,
+          "head_pose_z": -7.369695452540925,
+          "eye_aspect_ratio": 0.2176916414080293,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": true
+        }
+      ],
+      "total_students": 5
+    },
+    {
+      "frame_number": 34,
+      "timestamp": "2025-09-05 11:55:25.799119",
+      "results": [
+        {
+          "frame_number": 34,
+          "timestamp": "2025-09-05 11:55:25.738013",
+          "student_id": "glen",
+          "recognition_confidence": 1.0,
+          "detection_bbox": [
+            187,
+            452,
+            330,
+            633
+          ],
+          "attention_score": 0.85,
+          "distraction_score": 0.15000000000000002,
+          "head_pose_x": 0.0,
+          "head_pose_y": 32.74430492943352,
+          "head_pose_z": 2.499408380762285,
+          "eye_aspect_ratio": 0.26978531031929964,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": true
+        },
+        {
+          "frame_number": 34,
+          "timestamp": "2025-09-05 11:55:25.772035",
+          "student_id": "glen",
+          "recognition_confidence": 1.0,
+          "detection_bbox": [
+            1155,
+            454,
+            1263,
+            587
+          ],
+          "attention_score": 0.0,
+          "distraction_score": 1.0,
+          "head_pose_x": 0.0,
+          "head_pose_y": 0.0,
+          "head_pose_z": 0.0,
+          "eye_aspect_ratio": 0.0,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": false
+        }
+      ],
+      "total_students": 2
+    },
+    {
+      "frame_number": 35,
+      "timestamp": "2025-09-05 11:55:28.317646",
+      "results": [
+        {
+          "frame_number": 35,
+          "timestamp": "2025-09-05 11:55:28.256830",
+          "student_id": "unknown_0",
+          "recognition_confidence": 0.0,
+          "detection_bbox": [
+            1150,
+            417,
+            1279,
+            720
+          ],
+          "attention_score": 0.0,
+          "distraction_score": 1.0,
+          "head_pose_x": 0.0,
+          "head_pose_y": 0.0,
+          "head_pose_z": 0.0,
+          "eye_aspect_ratio": 0.0,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": false
+        },
+        {
+          "frame_number": 35,
+          "timestamp": "2025-09-05 11:55:28.291408",
+          "student_id": "reevan",
+          "recognition_confidence": 1.0,
+          "detection_bbox": [
+            810,
+            406,
+            950,
+            663
+          ],
+          "attention_score": 0.0,
+          "distraction_score": 1.0,
+          "head_pose_x": 0.0,
+          "head_pose_y": 0.0,
+          "head_pose_z": 0.0,
+          "eye_aspect_ratio": 0.0,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": false
+        }
+      ],
+      "total_students": 2
+    },
+    {
+      "frame_number": 37,
+      "timestamp": "2025-09-05 11:55:33.450756",
+      "results": [
+        {
+          "frame_number": 37,
+          "timestamp": "2025-09-05 11:55:33.284967",
+          "student_id": "Unknown",
+          "recognition_confidence": 1.0,
+          "detection_bbox": [
+            1102,
+            334,
+            1279,
+            717
+          ],
+          "attention_score": 0.0,
+          "distraction_score": 1.0,
+          "head_pose_x": 0.0,
+          "head_pose_y": 0.0,
+          "head_pose_z": 0.0,
+          "eye_aspect_ratio": 0.0,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": false
+        },
+        {
+          "frame_number": 37,
+          "timestamp": "2025-09-05 11:55:33.391284",
+          "student_id": "shahid",
+          "recognition_confidence": 1.0,
+          "detection_bbox": [
+            809,
+            409,
+            935,
+            658
+          ],
+          "attention_score": 0.85,
+          "distraction_score": 0.15000000000000002,
+          "head_pose_x": 0.0,
+          "head_pose_y": 35.05189851949736,
+          "head_pose_z": 21.535125189697542,
+          "eye_aspect_ratio": 0.2518693199602026,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": true
+        },
+        {
+          "frame_number": 37,
+          "timestamp": "2025-09-05 11:55:33.423743",
+          "student_id": "Unknown",
+          "recognition_confidence": 1.0,
+          "detection_bbox": [
+            936,
+            426,
+            1019,
+            538
+          ],
+          "attention_score": 0.0,
+          "distraction_score": 1.0,
+          "head_pose_x": 0.0,
+          "head_pose_y": 0.0,
+          "head_pose_z": 0.0,
+          "eye_aspect_ratio": 0.0,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": false
+        }
+      ],
+      "total_students": 3
+    },
+    {
+      "frame_number": 38,
+      "timestamp": "2025-09-05 11:55:36.037008",
+      "results": [
+        {
+          "frame_number": 38,
+          "timestamp": "2025-09-05 11:55:36.009002",
+          "student_id": "Unknown",
+          "recognition_confidence": 1.0,
+          "detection_bbox": [
+            469,
+            495,
+            589,
+            654
+          ],
+          "attention_score": 0.85,
+          "distraction_score": 0.15000000000000002,
+          "head_pose_x": 0.0,
+          "head_pose_y": 64.65281791539272,
+          "head_pose_z": -27.12509697543653,
+          "eye_aspect_ratio": 0.41875183694136897,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": true
+        }
+      ],
+      "total_students": 1
+    },
+    {
+      "frame_number": 39,
+      "timestamp": "2025-09-05 11:55:38.597259",
+      "results": [
+        {
+          "frame_number": 39,
+          "timestamp": "2025-09-05 11:55:38.569895",
+          "student_id": "shahid",
+          "recognition_confidence": 1.0,
+          "detection_bbox": [
+            470,
+            497,
+            589,
+            653
+          ],
+          "attention_score": 0.85,
+          "distraction_score": 0.15000000000000002,
+          "head_pose_x": 0.0,
+          "head_pose_y": 43.909559962964785,
+          "head_pose_z": -15.2039622892529,
+          "eye_aspect_ratio": 0.3128393782124311,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": true
+        }
+      ],
+      "total_students": 1
+    },
+    {
+      "frame_number": 41,
+      "timestamp": "2025-09-05 11:55:43.752087",
+      "results": [
+        {
+          "frame_number": 41,
+          "timestamp": "2025-09-05 11:55:43.511915",
+          "student_id": "shahid",
+          "recognition_confidence": 1.0,
+          "detection_bbox": [
+            478,
+            493,
+            601,
+            641
+          ],
+          "attention_score": 0.85,
+          "distraction_score": 0.15000000000000002,
+          "head_pose_x": 0.0,
+          "head_pose_y": 39.047375775748286,
+          "head_pose_z": -8.52208413780877,
+          "eye_aspect_ratio": 0.35638685827668015,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": true
+        },
+        {
+          "frame_number": 41,
+          "timestamp": "2025-09-05 11:55:43.617890",
+          "student_id": "Unknown",
+          "recognition_confidence": 1.0,
+          "detection_bbox": [
+            621,
+            437,
+            709,
+            562
+          ],
+          "attention_score": 0.5499999999999999,
+          "distraction_score": 0.45000000000000007,
+          "head_pose_x": 0.0,
+          "head_pose_y": 36.75700572894591,
+          "head_pose_z": -11.993986864497764,
+          "eye_aspect_ratio": 0.16973198200193004,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": true
+        },
+        {
+          "frame_number": 41,
+          "timestamp": "2025-09-05 11:55:43.727628",
+          "student_id": "Unknown",
+          "recognition_confidence": 1.0,
+          "detection_bbox": [
+            1085,
+            399,
+            1163,
+            538
+          ],
+          "attention_score": 0.85,
+          "distraction_score": 0.15000000000000002,
+          "head_pose_x": 0.0,
+          "head_pose_y": 30.61681777182678,
+          "head_pose_z": -5.8948194409346515,
+          "eye_aspect_ratio": 0.22923251843965048,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": true
+        }
+      ],
+      "total_students": 3
+    },
+    {
+      "frame_number": 42,
+      "timestamp": "2025-09-05 11:55:46.327703",
+      "results": [
+        {
+          "frame_number": 42,
+          "timestamp": "2025-09-05 11:55:46.268653",
+          "student_id": "reevan",
+          "recognition_confidence": 1.0,
+          "detection_bbox": [
+            1010,
+            450,
+            1115,
+            588
+          ],
+          "attention_score": 0.85,
+          "distraction_score": 0.15000000000000002,
+          "head_pose_x": 0.0,
+          "head_pose_y": 62.91290164465518,
+          "head_pose_z": -1.0089880207385142,
+          "eye_aspect_ratio": 0.32971986571008205,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": true
+        },
+        {
+          "frame_number": 42,
+          "timestamp": "2025-09-05 11:55:46.301117",
+          "student_id": "shahid",
+          "recognition_confidence": 0.9025,
+          "detection_bbox": [
+            422,
+            456,
+            514,
+            573
+          ],
+          "attention_score": 0.0,
+          "distraction_score": 1.0,
+          "head_pose_x": 0.0,
+          "head_pose_y": 0.0,
+          "head_pose_z": 0.0,
+          "eye_aspect_ratio": 0.0,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": false
+        }
+      ],
+      "total_students": 2
+    },
+    {
+      "frame_number": 43,
+      "timestamp": "2025-09-05 11:55:49.134805",
+      "results": [
+        {
+          "frame_number": 43,
+          "timestamp": "2025-09-05 11:55:48.891306",
+          "student_id": "Unknown",
+          "recognition_confidence": 1.0,
+          "detection_bbox": [
+            475,
+            508,
+            583,
+            641
+          ],
+          "attention_score": 1.0,
+          "distraction_score": 0.0,
+          "head_pose_x": 0.0,
+          "head_pose_y": 25.537070546858732,
+          "head_pose_z": -6.912318506940285,
+          "eye_aspect_ratio": 0.2808092458753544,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": true
+        },
+        {
+          "frame_number": 43,
+          "timestamp": "2025-09-05 11:55:48.998420",
+          "student_id": "Unknown",
+          "recognition_confidence": 1.0,
+          "detection_bbox": [
+            1011,
+            454,
+            1117,
+            588
+          ],
+          "attention_score": 0.85,
+          "distraction_score": 0.15000000000000002,
+          "head_pose_x": 0.0,
+          "head_pose_y": 32.27519572879525,
+          "head_pose_z": 10.158655459757409,
+          "eye_aspect_ratio": 0.2714486897312397,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": true
+        },
+        {
+          "frame_number": 43,
+          "timestamp": "2025-09-05 11:55:49.108695",
+          "student_id": "shahid",
+          "recognition_confidence": 1.0,
+          "detection_bbox": [
+            808,
+            413,
+            948,
+            655
+          ],
+          "attention_score": 0.85,
+          "distraction_score": 0.15000000000000002,
+          "head_pose_x": 0.0,
+          "head_pose_y": 54.48050835661574,
+          "head_pose_z": 14.66029408235117,
+          "eye_aspect_ratio": 0.45014489238997907,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": true
+        }
+      ],
+      "total_students": 3
+    },
+    {
+      "frame_number": 44,
+      "timestamp": "2025-09-05 11:55:52.046650",
+      "results": [
+        {
+          "frame_number": 44,
+          "timestamp": "2025-09-05 11:55:51.902011",
+          "student_id": "Unknown",
+          "recognition_confidence": 1.0,
+          "detection_bbox": [
+            1010,
+            447,
+            1116,
+            588
+          ],
+          "attention_score": 0.85,
+          "distraction_score": 0.15000000000000002,
+          "head_pose_x": 0.0,
+          "head_pose_y": 42.96902966498809,
+          "head_pose_z": 27.392415976556002,
+          "eye_aspect_ratio": 0.2961727723691886,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": true
+        },
+        {
+          "frame_number": 44,
+          "timestamp": "2025-09-05 11:55:52.021956",
+          "student_id": "Unknown",
+          "recognition_confidence": 1.0,
+          "detection_bbox": [
+            807,
+            410,
+            937,
+            656
+          ],
+          "attention_score": 0.7,
+          "distraction_score": 0.30000000000000004,
+          "head_pose_x": 0.0,
+          "head_pose_y": 28.171639793366413,
+          "head_pose_z": -8.02463919243153,
+          "eye_aspect_ratio": 0.12953881337314044,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": true
+        }
+      ],
+      "total_students": 2
+    },
+    {
+      "frame_number": 46,
+      "timestamp": "2025-09-05 11:55:57.184673",
+      "results": [
+        {
+          "frame_number": 46,
+          "timestamp": "2025-09-05 11:55:56.951343",
+          "student_id": "Unknown",
+          "recognition_confidence": 1.0,
+          "detection_bbox": [
+            1012,
+            455,
+            1120,
+            587
+          ],
+          "attention_score": 0.85,
+          "distraction_score": 0.15000000000000002,
+          "head_pose_x": 0.0,
+          "head_pose_y": 49.18816033864467,
+          "head_pose_z": 6.129925603275088,
+          "eye_aspect_ratio": 0.31829105476262815,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": true
+        },
+        {
+          "frame_number": 46,
+          "timestamp": "2025-09-05 11:55:57.060358",
+          "student_id": "Unknown",
+          "recognition_confidence": 1.0,
+          "detection_bbox": [
+            809,
+            409,
+            962,
+            660
+          ],
+          "attention_score": 0.85,
+          "distraction_score": 0.15000000000000002,
+          "head_pose_x": 0.0,
+          "head_pose_y": 32.119940270591066,
+          "head_pose_z": 20.2337269965796,
+          "eye_aspect_ratio": 0.2625364245239237,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": true
+        },
+        {
+          "frame_number": 46,
+          "timestamp": "2025-09-05 11:55:57.158108",
+          "student_id": "reevan",
+          "recognition_confidence": 0.81,
+          "detection_bbox": [
+            1171,
+            416,
+            1227,
+            504
+          ],
+          "attention_score": 1.0,
+          "distraction_score": 0.0,
+          "head_pose_x": 0.0,
+          "head_pose_y": 26.383359090200337,
+          "head_pose_z": -3.449197980195461,
+          "eye_aspect_ratio": 0.2436263277226633,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": true
+        }
+      ],
+      "total_students": 3
+    },
+    {
+      "frame_number": 47,
+      "timestamp": "2025-09-05 11:55:59.778757",
+      "results": [
+        {
+          "frame_number": 47,
+          "timestamp": "2025-09-05 11:55:59.617651",
+          "student_id": "unknown_0",
+          "recognition_confidence": 0.0,
+          "detection_bbox": [
+            1162,
+            340,
+            1279,
+            718
+          ],
+          "attention_score": 0.0,
+          "distraction_score": 1.0,
+          "head_pose_x": 0.0,
+          "head_pose_y": 0.0,
+          "head_pose_z": 0.0,
+          "eye_aspect_ratio": 0.0,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": false
+        },
+        {
+          "frame_number": 47,
+          "timestamp": "2025-09-05 11:55:59.720242",
+          "student_id": "reevan",
+          "recognition_confidence": 1.0,
+          "detection_bbox": [
+            1010,
+            456,
+            1116,
+            587
+          ],
+          "attention_score": 1.0,
+          "distraction_score": 0.0,
+          "head_pose_x": 0.0,
+          "head_pose_y": 24.56476780017674,
+          "head_pose_z": -6.9653345069731465,
+          "eye_aspect_ratio": 0.24632527891749373,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": true
+        },
+        {
+          "frame_number": 47,
+          "timestamp": "2025-09-05 11:55:59.752578",
+          "student_id": "glen",
+          "recognition_confidence": 1.0,
+          "detection_bbox": [
+            808,
+            412,
+            938,
+            657
+          ],
+          "attention_score": 0.0,
+          "distraction_score": 1.0,
+          "head_pose_x": 0.0,
+          "head_pose_y": 0.0,
+          "head_pose_z": 0.0,
+          "eye_aspect_ratio": 0.0,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": false
+        }
+      ],
+      "total_students": 3
+    },
+    {
+      "frame_number": 48,
+      "timestamp": "2025-09-05 11:56:02.537832",
+      "results": [
+        {
+          "frame_number": 48,
+          "timestamp": "2025-09-05 11:56:02.412320",
+          "student_id": "Unknown",
+          "recognition_confidence": 1.0,
+          "detection_bbox": [
+            1010,
+            445,
+            1119,
+            588
+          ],
+          "attention_score": 0.85,
+          "distraction_score": 0.15000000000000002,
+          "head_pose_x": 0.0,
+          "head_pose_y": 51.497060636560306,
+          "head_pose_z": 10.811109511703526,
+          "eye_aspect_ratio": 0.20291994760342075,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": true
+        },
+        {
+          "frame_number": 48,
+          "timestamp": "2025-09-05 11:56:02.513027",
+          "student_id": "unknown_1",
+          "recognition_confidence": 0.0,
+          "detection_bbox": [
+            1209,
+            484,
+            1279,
+            662
+          ],
+          "attention_score": 0.75,
+          "distraction_score": 0.25,
+          "head_pose_x": 0.0,
+          "head_pose_y": 32.65802056043806,
+          "head_pose_z": 39.17983389368871,
+          "eye_aspect_ratio": 0.2832781959362708,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": true
+        }
+      ],
+      "total_students": 2
+    },
+    {
+      "frame_number": 49,
+      "timestamp": "2025-09-05 11:56:05.000946",
+      "results": [
+        {
+          "frame_number": 49,
+          "timestamp": "2025-09-05 11:56:04.975490",
+          "student_id": "unknown_0",
+          "recognition_confidence": 0.0,
+          "detection_bbox": [
+            1014,
+            450,
+            1126,
+            588
+          ],
+          "attention_score": 0.0,
+          "distraction_score": 1.0,
+          "head_pose_x": 0.0,
+          "head_pose_y": 0.0,
+          "head_pose_z": 0.0,
+          "eye_aspect_ratio": 0.0,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": false
+        }
+      ],
+      "total_students": 1
+    },
+    {
+      "frame_number": 50,
+      "timestamp": "2025-09-05 11:56:07.539727",
+      "results": [
+        {
+          "frame_number": 50,
+          "timestamp": "2025-09-05 11:56:07.413120",
+          "student_id": "unknown_0",
+          "recognition_confidence": 0.0,
+          "detection_bbox": [
+            476,
+            494,
+            599,
+            649
+          ],
+          "attention_score": 0.85,
+          "distraction_score": 0.15000000000000002,
+          "head_pose_x": 0.0,
+          "head_pose_y": 36.21930999317154,
+          "head_pose_z": -6.3989619326846245,
+          "eye_aspect_ratio": 0.29534325078246887,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": true
+        },
+        {
+          "frame_number": 50,
+          "timestamp": "2025-09-05 11:56:07.513424",
+          "student_id": "reevan",
+          "recognition_confidence": 1.0,
+          "detection_bbox": [
+            1011,
+            446,
+            1122,
+            588
+          ],
+          "attention_score": 0.85,
+          "distraction_score": 0.15000000000000002,
+          "head_pose_x": 0.0,
+          "head_pose_y": 35.83999926858002,
+          "head_pose_z": -4.203430161353842,
+          "eye_aspect_ratio": 0.30963686697060383,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": true
+        }
+      ],
+      "total_students": 2
+    },
+    {
+      "frame_number": 52,
+      "timestamp": "2025-09-05 11:56:12.531510",
+      "results": [
+        {
+          "frame_number": 52,
+          "timestamp": "2025-09-05 11:56:12.333672",
+          "student_id": "shahid",
+          "recognition_confidence": 1.0,
+          "detection_bbox": [
+            487,
+            495,
+            606,
+            643
+          ],
+          "attention_score": 0.85,
+          "distraction_score": 0.15000000000000002,
+          "head_pose_x": 0.0,
+          "head_pose_y": 44.45893667264652,
+          "head_pose_z": -10.812720117745197,
+          "eye_aspect_ratio": 0.30903211125133073,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": true
+        },
+        {
+          "frame_number": 52,
+          "timestamp": "2025-09-05 11:56:12.456210",
+          "student_id": "reevan",
+          "recognition_confidence": 1.0,
+          "detection_bbox": [
+            1157,
+            443,
+            1257,
+            585
+          ],
+          "attention_score": 0.85,
+          "distraction_score": 0.15000000000000002,
+          "head_pose_x": 0.0,
+          "head_pose_y": 58.14978915008586,
+          "head_pose_z": -0.024472934287503495,
+          "eye_aspect_ratio": 0.4454006322796651,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": true
+        },
+        {
+          "frame_number": 52,
+          "timestamp": "2025-09-05 11:56:12.504547",
+          "student_id": "reevan",
+          "recognition_confidence": 1.0,
+          "detection_bbox": [
+            808,
+            409,
+            941,
+            654
+          ],
+          "attention_score": 0.0,
+          "distraction_score": 1.0,
+          "head_pose_x": 0.0,
+          "head_pose_y": 0.0,
+          "head_pose_z": 0.0,
+          "eye_aspect_ratio": 0.0,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": false
+        }
+      ],
+      "total_students": 3
+    },
+    {
+      "frame_number": 53,
+      "timestamp": "2025-09-05 11:56:15.106353",
+      "results": [
+        {
+          "frame_number": 53,
+          "timestamp": "2025-09-05 11:56:15.079147",
+          "student_id": "unknown_0",
+          "recognition_confidence": 0.0,
+          "detection_bbox": [
+            1156,
+            439,
+            1275,
+            585
+          ],
+          "attention_score": 0.85,
+          "distraction_score": 0.15000000000000002,
+          "head_pose_x": 0.0,
+          "head_pose_y": 31.583173813807576,
+          "head_pose_z": 3.168299909028186,
+          "eye_aspect_ratio": 0.27094637637584923,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": true
+        }
+      ],
+      "total_students": 1
+    },
+    {
+      "frame_number": 54,
+      "timestamp": "2025-09-05 11:56:17.533527",
+      "results": [
+        {
+          "frame_number": 54,
+          "timestamp": "2025-09-05 11:56:17.507019",
+          "student_id": "Unknown",
+          "recognition_confidence": 1.0,
+          "detection_bbox": [
+            1154,
+            440,
+            1261,
+            582
+          ],
+          "attention_score": 0.0,
+          "distraction_score": 1.0,
+          "head_pose_x": 0.0,
+          "head_pose_y": 0.0,
+          "head_pose_z": 0.0,
+          "eye_aspect_ratio": 0.0,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": false
+        }
+      ],
+      "total_students": 1
+    },
+    {
+      "frame_number": 56,
+      "timestamp": "2025-09-05 11:56:22.850449",
+      "results": [
+        {
+          "frame_number": 56,
+          "timestamp": "2025-09-05 11:56:22.788575",
+          "student_id": "glen",
+          "recognition_confidence": 1.0,
+          "detection_bbox": [
+            185,
+            456,
+            319,
+            635
+          ],
+          "attention_score": 0.5499999999999999,
+          "distraction_score": 0.45000000000000007,
+          "head_pose_x": 0.0,
+          "head_pose_y": 35.495603657275616,
+          "head_pose_z": -3.441952035320132,
+          "eye_aspect_ratio": 0.15598548298244924,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": true
+        },
+        {
+          "frame_number": 56,
+          "timestamp": "2025-09-05 11:56:22.822911",
+          "student_id": "reevan",
+          "recognition_confidence": 1.0,
+          "detection_bbox": [
+            1154,
+            441,
+            1268,
+            583
+          ],
+          "attention_score": 0.0,
+          "distraction_score": 1.0,
+          "head_pose_x": 0.0,
+          "head_pose_y": 0.0,
+          "head_pose_z": 0.0,
+          "eye_aspect_ratio": 0.0,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": false
+        }
+      ],
+      "total_students": 2
+    },
+    {
+      "frame_number": 57,
+      "timestamp": "2025-09-05 11:56:25.427230",
+      "results": [
+        {
+          "frame_number": 57,
+          "timestamp": "2025-09-05 11:56:25.401489",
+          "student_id": "shahid",
+          "recognition_confidence": 1.0,
+          "detection_bbox": [
+            1153,
+            444,
+            1259,
+            586
+          ],
+          "attention_score": 0.85,
+          "distraction_score": 0.15000000000000002,
+          "head_pose_x": 0.0,
+          "head_pose_y": 54.736303095756114,
+          "head_pose_z": 1.7674848824372418,
+          "eye_aspect_ratio": 0.32325768460431564,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": true
+        }
+      ],
+      "total_students": 1
+    },
+    {
+      "frame_number": 58,
+      "timestamp": "2025-09-05 11:56:28.016828",
+      "results": [
+        {
+          "frame_number": 58,
+          "timestamp": "2025-09-05 11:56:27.863391",
+          "student_id": "unknown_0",
+          "recognition_confidence": 0.0,
+          "detection_bbox": [
+            291,
+            491,
+            445,
+            693
+          ],
+          "attention_score": 0.0,
+          "distraction_score": 1.0,
+          "head_pose_x": 0.0,
+          "head_pose_y": 0.0,
+          "head_pose_z": 0.0,
+          "eye_aspect_ratio": 0.0,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": false
+        },
+        {
+          "frame_number": 58,
+          "timestamp": "2025-09-05 11:56:27.968512",
+          "student_id": "glen",
+          "recognition_confidence": 1.0,
+          "detection_bbox": [
+            1165,
+            444,
+            1277,
+            588
+          ],
+          "attention_score": 0.85,
+          "distraction_score": 0.15000000000000002,
+          "head_pose_x": 0.0,
+          "head_pose_y": 42.46898849773486,
+          "head_pose_z": 5.603120558339242,
+          "eye_aspect_ratio": 0.34632855551439923,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": true
+        },
+        {
+          "frame_number": 58,
+          "timestamp": "2025-09-05 11:56:27.991203",
+          "student_id": "unknown_2",
+          "recognition_confidence": 0.0,
+          "detection_bbox": [
+            1209,
+            502,
+            1279,
+            664
+          ],
+          "attention_score": 0.0,
+          "distraction_score": 1.0,
+          "head_pose_x": 0.0,
+          "head_pose_y": 0.0,
+          "head_pose_z": 0.0,
+          "eye_aspect_ratio": 0.0,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": false
+        }
+      ],
+      "total_students": 3
+    },
+    {
+      "frame_number": 59,
+      "timestamp": "2025-09-05 11:56:30.653089",
+      "results": [
+        {
+          "frame_number": 59,
+          "timestamp": "2025-09-05 11:56:30.519918",
+          "student_id": "unknown_0",
+          "recognition_confidence": 0.0,
+          "detection_bbox": [
+            327,
+            477,
+            462,
+            654
+          ],
+          "attention_score": 0.0,
+          "distraction_score": 1.0,
+          "head_pose_x": 0.0,
+          "head_pose_y": 0.0,
+          "head_pose_z": 0.0,
+          "eye_aspect_ratio": 0.0,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": false
+        },
+        {
+          "frame_number": 59,
+          "timestamp": "2025-09-05 11:56:30.625110",
+          "student_id": "glen",
+          "recognition_confidence": 1.0,
+          "detection_bbox": [
+            1159,
+            447,
+            1266,
+            584
+          ],
+          "attention_score": 0.85,
+          "distraction_score": 0.15000000000000002,
+          "head_pose_x": 0.0,
+          "head_pose_y": 33.571969673376806,
+          "head_pose_z": 1.8122516102826647,
+          "eye_aspect_ratio": 0.2704120863264517,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": true
+        }
+      ],
+      "total_students": 2
+    },
+    {
+      "frame_number": 60,
+      "timestamp": "2025-09-05 11:56:33.320348",
+      "results": [
+        {
+          "frame_number": 60,
+          "timestamp": "2025-09-05 11:56:33.267927",
+          "student_id": "reevan",
+          "recognition_confidence": 1.0,
+          "detection_bbox": [
+            1163,
+            446,
+            1272,
+            584
+          ],
+          "attention_score": 0.85,
+          "distraction_score": 0.15000000000000002,
+          "head_pose_x": 0.0,
+          "head_pose_y": 38.77808950407782,
+          "head_pose_z": 1.5349846557036841,
+          "eye_aspect_ratio": 0.2804938881020168,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": true
+        },
+        {
+          "frame_number": 60,
+          "timestamp": "2025-09-05 11:56:33.291825",
+          "student_id": "unknown_1",
+          "recognition_confidence": 0.0,
+          "detection_bbox": [
+            1207,
+            503,
+            1279,
+            663
+          ],
+          "attention_score": 0.0,
+          "distraction_score": 1.0,
+          "head_pose_x": 0.0,
+          "head_pose_y": 0.0,
+          "head_pose_z": 0.0,
+          "eye_aspect_ratio": 0.0,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": false
+        }
+      ],
+      "total_students": 2
+    },
+    {
+      "frame_number": 61,
+      "timestamp": "2025-09-05 11:56:35.870309",
+      "results": [
+        {
+          "frame_number": 61,
+          "timestamp": "2025-09-05 11:56:35.741779",
+          "student_id": "unknown_0",
+          "recognition_confidence": 0.0,
+          "detection_bbox": [
+            1202,
+            501,
+            1279,
+            659
+          ],
+          "attention_score": 0.0,
+          "distraction_score": 1.0,
+          "head_pose_x": 0.0,
+          "head_pose_y": 0.0,
+          "head_pose_z": 0.0,
+          "eye_aspect_ratio": 0.0,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": false
+        },
+        {
+          "frame_number": 61,
+          "timestamp": "2025-09-05 11:56:35.844081",
+          "student_id": "Unknown",
+          "recognition_confidence": 1.0,
+          "detection_bbox": [
+            1006,
+            446,
+            1120,
+            587
+          ],
+          "attention_score": 0.85,
+          "distraction_score": 0.15000000000000002,
+          "head_pose_x": 0.0,
+          "head_pose_y": 46.97631376617056,
+          "head_pose_z": 16.368914948528897,
+          "eye_aspect_ratio": 0.2649956017188033,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": true
+        }
+      ],
+      "total_students": 2
+    },
+    {
+      "frame_number": 62,
+      "timestamp": "2025-09-05 11:56:38.412759",
+      "results": [
+        {
+          "frame_number": 62,
+          "timestamp": "2025-09-05 11:56:38.385750",
+          "student_id": "Unknown",
+          "recognition_confidence": 1.0,
+          "detection_bbox": [
+            1008,
+            442,
+            1117,
+            586
+          ],
+          "attention_score": 0.85,
+          "distraction_score": 0.15000000000000002,
+          "head_pose_x": 0.0,
+          "head_pose_y": 43.81956710085146,
+          "head_pose_z": 16.181336706508795,
+          "eye_aspect_ratio": 0.2887324381902681,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": true
+        }
+      ],
+      "total_students": 1
+    },
+    {
+      "frame_number": 63,
+      "timestamp": "2025-09-05 11:56:41.178795",
+      "results": [
+        {
+          "frame_number": 63,
+          "timestamp": "2025-09-05 11:56:40.929429",
+          "student_id": "Unknown",
+          "recognition_confidence": 1.0,
+          "detection_bbox": [
+            622,
+            453,
+            777,
+            646
+          ],
+          "attention_score": 0.44999999999999996,
+          "distraction_score": 0.55,
+          "head_pose_x": 0.0,
+          "head_pose_y": 41.567997642264295,
+          "head_pose_z": -31.722901152388683,
+          "eye_aspect_ratio": 0.1620180766380409,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": true
+        },
+        {
+          "frame_number": 63,
+          "timestamp": "2025-09-05 11:56:40.955439",
+          "student_id": "unknown_1",
+          "recognition_confidence": 0.0,
+          "detection_bbox": [
+            1201,
+            510,
+            1279,
+            665
+          ],
+          "attention_score": 0.0,
+          "distraction_score": 1.0,
+          "head_pose_x": 0.0,
+          "head_pose_y": 0.0,
+          "head_pose_z": 0.0,
+          "eye_aspect_ratio": 0.0,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": false
+        },
+        {
+          "frame_number": 63,
+          "timestamp": "2025-09-05 11:56:41.056149",
+          "student_id": "Unknown",
+          "recognition_confidence": 0.9025,
+          "detection_bbox": [
+            1166,
+            415,
+            1226,
+            505
+          ],
+          "attention_score": 0.85,
+          "distraction_score": 0.15000000000000002,
+          "head_pose_x": 0.0,
+          "head_pose_y": 41.03532481427755,
+          "head_pose_z": 11.72969184144557,
+          "eye_aspect_ratio": 0.358016818633364,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": true
+        },
+        {
+          "frame_number": 63,
+          "timestamp": "2025-09-05 11:56:41.154737",
+          "student_id": "reevan",
+          "recognition_confidence": 1.0,
+          "detection_bbox": [
+            811,
+            412,
+            961,
+            662
+          ],
+          "attention_score": 0.5499999999999999,
+          "distraction_score": 0.45000000000000007,
+          "head_pose_x": 0.0,
+          "head_pose_y": 33.18543773971005,
+          "head_pose_z": -9.03548681657765,
+          "eye_aspect_ratio": 0.13660132223565655,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": true
+        }
+      ],
+      "total_students": 4
+    },
+    {
+      "frame_number": 64,
+      "timestamp": "2025-09-05 11:56:43.663068",
+      "results": [
+        {
+          "frame_number": 64,
+          "timestamp": "2025-09-05 11:56:43.635223",
+          "student_id": "Unknown",
+          "recognition_confidence": 1.0,
+          "detection_bbox": [
+            479,
+            497,
+            596,
+            661
+          ],
+          "attention_score": 0.0,
+          "distraction_score": 1.0,
+          "head_pose_x": 0.0,
+          "head_pose_y": 0.0,
+          "head_pose_z": 0.0,
+          "eye_aspect_ratio": 0.0,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": false
+        }
+      ],
+      "total_students": 1
+    },
+    {
+      "frame_number": 65,
+      "timestamp": "2025-09-05 11:56:46.384856",
+      "results": [
+        {
+          "frame_number": 65,
+          "timestamp": "2025-09-05 11:56:46.228580",
+          "student_id": "Unknown",
+          "recognition_confidence": 1.0,
+          "detection_bbox": [
+            604,
+            451,
+            745,
+            643
+          ],
+          "attention_score": 0.85,
+          "distraction_score": 0.15000000000000002,
+          "head_pose_x": 0.0,
+          "head_pose_y": 54.244201377740026,
+          "head_pose_z": 23.88138669188308,
+          "eye_aspect_ratio": 0.4073546812967269,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": true
+        },
+        {
+          "frame_number": 65,
+          "timestamp": "2025-09-05 11:56:46.336090",
+          "student_id": "glen",
+          "recognition_confidence": 1.0,
+          "detection_bbox": [
+            337,
+            444,
+            485,
+            634
+          ],
+          "attention_score": 0.85,
+          "distraction_score": 0.15000000000000002,
+          "head_pose_x": 0.0,
+          "head_pose_y": 62.71348953973309,
+          "head_pose_z": -29.086408319298776,
+          "eye_aspect_ratio": 0.2778386461563859,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": true
+        },
+        {
+          "frame_number": 65,
+          "timestamp": "2025-09-05 11:56:46.357920",
+          "student_id": "unknown_2",
+          "recognition_confidence": 0.0,
+          "detection_bbox": [
+            1198,
+            503,
+            1279,
+            661
+          ],
+          "attention_score": 0.0,
+          "distraction_score": 1.0,
+          "head_pose_x": 0.0,
+          "head_pose_y": 0.0,
+          "head_pose_z": 0.0,
+          "eye_aspect_ratio": 0.0,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": false
+        }
+      ],
+      "total_students": 3
+    },
+    {
+      "frame_number": 66,
+      "timestamp": "2025-09-05 11:56:49.087253",
+      "results": [
+        {
+          "frame_number": 66,
+          "timestamp": "2025-09-05 11:56:48.908021",
+          "student_id": "Unknown",
+          "recognition_confidence": 1.0,
+          "detection_bbox": [
+            804,
+            357,
+            1045,
+            701
+          ],
+          "attention_score": 0.5499999999999999,
+          "distraction_score": 0.45000000000000007,
+          "head_pose_x": 0.0,
+          "head_pose_y": 32.07903000739889,
+          "head_pose_z": -0.5550632940638515,
+          "eye_aspect_ratio": 0.19605481264141683,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": true
+        },
+        {
+          "frame_number": 66,
+          "timestamp": "2025-09-05 11:56:49.030906",
+          "student_id": "shahid",
+          "recognition_confidence": 1.0,
+          "detection_bbox": [
+            477,
+            489,
+            602,
+            643
+          ],
+          "attention_score": 0.85,
+          "distraction_score": 0.15000000000000002,
+          "head_pose_x": 0.0,
+          "head_pose_y": 31.800680779694442,
+          "head_pose_z": -17.878806797952684,
+          "eye_aspect_ratio": 0.30514634924357315,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": true
+        },
+        {
+          "frame_number": 66,
+          "timestamp": "2025-09-05 11:56:49.061841",
+          "student_id": "Unknown",
+          "recognition_confidence": 1.0,
+          "detection_bbox": [
+            1132,
+            415,
+            1245,
+            579
+          ],
+          "attention_score": 0.0,
+          "distraction_score": 1.0,
+          "head_pose_x": 0.0,
+          "head_pose_y": 0.0,
+          "head_pose_z": 0.0,
+          "eye_aspect_ratio": 0.0,
+          "is_sleeping": false,
+          "phone_detected": false,
+          "cheating_probability": 0.0,
+          "session_id": "f38cc52c-233e-4c46-a586-3cee25399781",
+          "face_detected": false
+        }
+      ],
+      "total_students": 3
+    }
+  ],
+  "generated_at": "2025-09-05T11:56:49.537950"
+}

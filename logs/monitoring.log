@@ -1,0 +1,938 @@
+2025-09-03 22:54:16,201 - root - INFO - Training model for student: student_001
+2025-09-03 22:54:16,261 - root - WARNING - No face found in dataset\student_001\img1.jpg
+2025-09-03 22:54:16,266 - root - WARNING - No face found in dataset\student_001\img2.jpg
+2025-09-03 22:54:16,278 - root - WARNING - No face found in dataset\student_001\img3.jpg
+2025-09-03 22:54:16,296 - root - WARNING - No face found in dataset\student_001\img4.jpg
+2025-09-03 22:54:16,304 - root - WARNING - No face found in dataset\student_001\img5.jpg
+2025-09-03 22:54:16,305 - root - INFO - Training model for student: student_002
+2025-09-03 22:54:16,314 - root - WARNING - No face found in dataset\student_002\img1.jpg
+2025-09-03 22:54:16,322 - root - WARNING - No face found in dataset\student_002\img2.jpg
+2025-09-03 22:54:16,330 - root - WARNING - No face found in dataset\student_002\img3.jpg
+2025-09-03 22:54:16,337 - root - WARNING - No face found in dataset\student_002\img4.jpg
+2025-09-03 22:54:16,344 - root - WARNING - No face found in dataset\student_002\img5.jpg
+2025-09-03 22:54:16,345 - root - INFO - Training model for student: student_003
+2025-09-03 22:54:16,353 - root - WARNING - No face found in dataset\student_003\img1.jpg
+2025-09-03 22:54:16,362 - root - WARNING - No face found in dataset\student_003\img2.jpg
+2025-09-03 22:54:16,369 - root - WARNING - No face found in dataset\student_003\img3.jpg
+2025-09-03 22:54:16,377 - root - WARNING - No face found in dataset\student_003\img4.jpg
+2025-09-03 22:54:16,383 - root - WARNING - No face found in dataset\student_003\img5.jpg
+2025-09-03 22:54:16,384 - root - INFO - Training model for student: student_004
+2025-09-03 22:54:16,392 - root - WARNING - No face found in dataset\student_004\img1.jpg
+2025-09-03 22:54:16,398 - root - WARNING - No face found in dataset\student_004\img2.jpg
+2025-09-03 22:54:16,405 - root - WARNING - No face found in dataset\student_004\img3.jpg
+2025-09-03 22:54:16,413 - root - WARNING - No face found in dataset\student_004\img4.jpg
+2025-09-03 22:54:16,419 - root - WARNING - No face found in dataset\student_004\img5.jpg
+2025-09-03 22:54:16,419 - root - INFO - Training model for student: student_005
+2025-09-03 22:54:16,428 - root - WARNING - No face found in dataset\student_005\img1.jpg
+2025-09-03 22:54:16,436 - root - WARNING - No face found in dataset\student_005\img2.jpg
+2025-09-03 22:54:16,442 - root - WARNING - No face found in dataset\student_005\img3.jpg
+2025-09-03 22:54:16,449 - root - WARNING - No face found in dataset\student_005\img4.jpg
+2025-09-03 22:54:16,457 - root - WARNING - No face found in dataset\student_005\img5.jpg
+2025-09-03 22:54:16,460 - root - INFO - Face recognition model saved to models/face_recognition_model.pkl
+2025-09-03 22:54:16,460 - root - INFO - Trained face recognition model with 0 known faces
+2025-09-03 22:54:20,261 - root - INFO - YOLO model loaded successfully
+2025-09-03 22:54:20,262 - root - INFO - Student Monitoring System initialized successfully
+2025-09-03 22:55:11,216 - root - INFO - Started monitoring session: a89325e8-6bfc-4a5a-bb70-4c338e353618
+2025-09-03 22:55:11,216 - root - INFO - Session type: regular_class, Exam mode: False
+2025-09-03 22:55:31,571 - root - INFO - Video capture initialized: 1920x1080 @ 30fps
+2025-09-03 22:55:31,574 - root - INFO - Monitoring started
+2025-09-03 22:56:03,475 - root - INFO - Processing frame 900 at 2025-09-03 22:56:03.475208
+2025-09-03 22:56:03,995 - root - INFO - No students detected in frame
+2025-09-03 22:56:39,516 - root - INFO - Processing frame 1800 at 2025-09-03 22:56:39.516343
+2025-09-03 22:56:39,608 - root - INFO - No students detected in frame
+2025-09-03 22:57:09,773 - root - INFO - Processing frame 2700 at 2025-09-03 22:57:09.773799
+2025-09-03 22:57:09,862 - root - INFO - No students detected in frame
+2025-09-03 22:57:45,498 - root - INFO - Processing frame 3600 at 2025-09-03 22:57:45.498391
+2025-09-03 22:57:45,587 - root - INFO - No students detected in frame
+2025-09-03 22:58:15,595 - root - INFO - Processing frame 4500 at 2025-09-03 22:58:15.595379
+2025-09-03 22:58:15,686 - root - INFO - No students detected in frame
+2025-09-03 22:58:51,180 - root - INFO - Processing frame 5400 at 2025-09-03 22:58:51.180196
+2025-09-03 22:58:51,270 - root - INFO - No students detected in frame
+2025-09-03 22:59:21,478 - root - INFO - Processing frame 6300 at 2025-09-03 22:59:21.478228
+2025-09-03 22:59:21,601 - root - INFO - No students detected in frame
+2025-09-03 22:59:56,764 - root - INFO - Processing frame 7200 at 2025-09-03 22:59:56.764491
+2025-09-03 22:59:56,849 - root - INFO - No students detected in frame
+2025-09-03 23:00:27,173 - root - INFO - Processing frame 8100 at 2025-09-03 23:00:27.173458
+2025-09-03 23:00:27,270 - root - INFO - No students detected in frame
+2025-09-03 23:01:02,201 - root - INFO - Processing frame 9000 at 2025-09-03 23:01:02.200146
+2025-09-03 23:01:02,282 - root - INFO - No students detected in frame
+2025-09-03 23:01:32,891 - root - INFO - Processing frame 9900 at 2025-09-03 23:01:32.891352
+2025-09-03 23:01:33,053 - root - INFO - No students detected in frame
+2025-09-03 23:02:03,939 - root - INFO - Processing frame 10800 at 2025-09-03 23:02:03.939068
+2025-09-03 23:02:04,026 - root - INFO - No students detected in frame
+2025-09-03 23:02:38,580 - root - INFO - Processing frame 11700 at 2025-09-03 23:02:38.580702
+2025-09-03 23:02:38,688 - root - INFO - No students detected in frame
+2025-09-03 23:03:09,325 - root - INFO - Processing frame 12600 at 2025-09-03 23:03:09.325667
+2025-09-03 23:03:09,786 - root - INFO - No students detected in frame
+2025-09-03 23:03:30,667 - root - INFO - Ended monitoring session: a89325e8-6bfc-4a5a-bb70-4c338e353618
+2025-09-03 23:03:30,672 - root - ERROR - Error getting attendance report: Execution failed on sql '
+                SELECT 
+                    al.student_id,
+                    s.name,
+                    al.attendance_status,
+                    al.confidence_score,
+                    al.timestamp
+                FROM attendance_logs al
+                LEFT JOIN students s ON al.student_id = s.student_id
+                WHERE al.session_id = ?
+                ORDER BY al.timestamp
+            ': Incorrect number of bindings supplied. The current statement uses 1, and there are 0 supplied.
+2025-09-03 23:03:30,709 - root - INFO - Monitoring stopped
+2025-09-03 23:15:17,229 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 23:15:17] "POST /upload HTTP/1.1" 200 -
+2025-09-03 23:15:17,244 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 23:15:17] "GET /status/de3fc263-495f-476a-be27-fbfcff54ffbf HTTP/1.1" 200 -
+2025-09-03 23:15:17,336 - root - INFO - Face recognition model loaded from models/face_recognition_model.pkl
+2025-09-03 23:15:17,337 - root - INFO - Loaded face recognition model with 0 known faces
+2025-09-03 23:15:18,418 - root - INFO - YOLO model loaded successfully
+2025-09-03 23:15:18,419 - root - INFO - Student Monitoring System initialized successfully
+2025-09-03 23:15:18,429 - root - INFO - Started monitoring session: d2d7b2e9-6d11-4f2e-bedf-0a8088a85067
+2025-09-03 23:15:18,429 - root - INFO - Session type: regular_class, Exam mode: False
+2025-09-03 23:15:19,269 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 23:15:19] "GET /status/de3fc263-495f-476a-be27-fbfcff54ffbf HTTP/1.1" 200 -
+2025-09-03 23:15:21,291 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 23:15:21] "GET /status/de3fc263-495f-476a-be27-fbfcff54ffbf HTTP/1.1" 200 -
+2025-09-03 23:15:21,993 - root - INFO - Ended monitoring session: d2d7b2e9-6d11-4f2e-bedf-0a8088a85067
+2025-09-03 23:15:21,994 - root - ERROR - Error getting attendance report: Execution failed on sql '
+                SELECT 
+                    al.student_id,
+                    s.name,
+                    al.attendance_status,
+                    al.confidence_score,
+                    al.timestamp
+                FROM attendance_logs al
+                LEFT JOIN students s ON al.student_id = s.student_id
+                WHERE al.session_id = ?
+                ORDER BY al.timestamp
+            ': Incorrect number of bindings supplied. The current statement uses 1, and there are 0 supplied.
+2025-09-03 23:15:23,305 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 23:15:23] "GET /status/de3fc263-495f-476a-be27-fbfcff54ffbf HTTP/1.1" 200 -
+2025-09-03 23:25:01,636 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 23:25:01] "GET / HTTP/1.1" 200 -
+2025-09-03 23:25:33,429 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 23:25:33] "POST /upload HTTP/1.1" 200 -
+2025-09-03 23:25:33,465 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 23:25:33] "GET /status/ed2a0aa9-0cab-4880-9373-93f7a514e53a HTTP/1.1" 200 -
+2025-09-03 23:25:33,576 - root - INFO - Face recognition model loaded from models/face_recognition_model.pkl
+2025-09-03 23:25:33,577 - root - INFO - Loaded face recognition model with 0 known faces
+2025-09-03 23:25:33,990 - root - INFO - YOLO model loaded successfully
+2025-09-03 23:25:33,990 - root - INFO - Student Monitoring System initialized successfully
+2025-09-03 23:25:34,003 - root - INFO - Started monitoring session: 6157e0c7-729f-436b-9b6a-8b0280ca7e97
+2025-09-03 23:25:34,004 - root - INFO - Session type: regular_class, Exam mode: False
+2025-09-03 23:25:35,493 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 23:25:35] "GET /status/ed2a0aa9-0cab-4880-9373-93f7a514e53a HTTP/1.1" 200 -
+2025-09-03 23:25:37,509 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 23:25:37] "GET /status/ed2a0aa9-0cab-4880-9373-93f7a514e53a HTTP/1.1" 200 -
+2025-09-03 23:25:38,311 - root - INFO - Ended monitoring session: 6157e0c7-729f-436b-9b6a-8b0280ca7e97
+2025-09-03 23:25:38,316 - root - ERROR - Error getting attendance report: Execution failed on sql '
+                SELECT 
+                    al.student_id,
+                    s.name,
+                    al.attendance_status,
+                    al.confidence_score,
+                    al.timestamp
+                FROM attendance_logs al
+                LEFT JOIN students s ON al.student_id = s.student_id
+                WHERE al.session_id = ?
+                ORDER BY al.timestamp
+            ': Incorrect number of bindings supplied. The current statement uses 1, and there are 0 supplied.
+2025-09-03 23:25:39,524 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 23:25:39] "GET /status/ed2a0aa9-0cab-4880-9373-93f7a514e53a HTTP/1.1" 200 -
+2025-09-03 23:25:50,301 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 23:25:50] "GET /gallery HTTP/1.1" 200 -
+2025-09-03 23:27:05,324 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 23:27:05] "POST /upload HTTP/1.1" 200 -
+2025-09-03 23:27:05,406 - root - INFO - Face recognition model loaded from models/face_recognition_model.pkl
+2025-09-03 23:27:05,405 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 23:27:05] "GET /status/2ccb9ae6-61c3-4461-a730-84c5e5d21836 HTTP/1.1" 200 -
+2025-09-03 23:27:05,409 - root - INFO - Loaded face recognition model with 0 known faces
+2025-09-03 23:27:05,690 - root - INFO - YOLO model loaded successfully
+2025-09-03 23:27:05,691 - root - INFO - Student Monitoring System initialized successfully
+2025-09-03 23:27:05,711 - root - INFO - Started monitoring session: ed75973d-676d-43ac-8c6c-a2e05a8fa389
+2025-09-03 23:27:05,715 - root - INFO - Session type: regular_class, Exam mode: False
+2025-09-03 23:27:07,443 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 23:27:07] "GET /status/2ccb9ae6-61c3-4461-a730-84c5e5d21836 HTTP/1.1" 200 -
+2025-09-03 23:27:07,631 - root - INFO - Ended monitoring session: ed75973d-676d-43ac-8c6c-a2e05a8fa389
+2025-09-03 23:27:07,633 - root - ERROR - Error getting attendance report: Execution failed on sql '
+                SELECT 
+                    al.student_id,
+                    s.name,
+                    al.attendance_status,
+                    al.confidence_score,
+                    al.timestamp
+                FROM attendance_logs al
+                LEFT JOIN students s ON al.student_id = s.student_id
+                WHERE al.session_id = ?
+                ORDER BY al.timestamp
+            ': Incorrect number of bindings supplied. The current statement uses 1, and there are 0 supplied.
+2025-09-03 23:27:09,464 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 23:27:09] "GET /status/2ccb9ae6-61c3-4461-a730-84c5e5d21836 HTTP/1.1" 200 -
+2025-09-03 23:27:15,124 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 23:27:15] "[33mGET /download/undefined HTTP/1.1[0m" 404 -
+2025-09-03 23:27:55,648 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 23:27:55] "POST /upload HTTP/1.1" 200 -
+2025-09-03 23:27:55,693 - root - INFO - Face recognition model loaded from models/face_recognition_model.pkl
+2025-09-03 23:27:55,695 - root - INFO - Loaded face recognition model with 0 known faces
+2025-09-03 23:27:55,783 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 23:27:55] "GET /status/30d87105-239e-4b28-8226-1f7620ac12b0 HTTP/1.1" 200 -
+2025-09-03 23:27:55,896 - root - INFO - YOLO model loaded successfully
+2025-09-03 23:27:55,896 - root - INFO - Student Monitoring System initialized successfully
+2025-09-03 23:27:55,906 - root - INFO - Started monitoring session: 5a759dad-1c73-4d93-a8db-9042993fd0b5
+2025-09-03 23:27:55,906 - root - INFO - Session type: regular_class, Exam mode: False
+2025-09-03 23:27:57,808 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 23:27:57] "GET /status/30d87105-239e-4b28-8226-1f7620ac12b0 HTTP/1.1" 200 -
+2025-09-03 23:27:59,824 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 23:27:59] "GET /status/30d87105-239e-4b28-8226-1f7620ac12b0 HTTP/1.1" 200 -
+2025-09-03 23:28:01,065 - root - INFO - Ended monitoring session: 5a759dad-1c73-4d93-a8db-9042993fd0b5
+2025-09-03 23:28:01,068 - root - ERROR - Error getting attendance report: Execution failed on sql '
+                SELECT 
+                    al.student_id,
+                    s.name,
+                    al.attendance_status,
+                    al.confidence_score,
+                    al.timestamp
+                FROM attendance_logs al
+                LEFT JOIN students s ON al.student_id = s.student_id
+                WHERE al.session_id = ?
+                ORDER BY al.timestamp
+            ': Incorrect number of bindings supplied. The current statement uses 1, and there are 0 supplied.
+2025-09-03 23:28:01,836 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 23:28:01] "GET /status/30d87105-239e-4b28-8226-1f7620ac12b0 HTTP/1.1" 200 -
+2025-09-03 23:28:15,562 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 23:28:15] "GET /gallery HTTP/1.1" 200 -
+2025-09-03 23:28:19,049 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 23:28:19] "GET /report/30d87105-239e-4b28-8226-1f7620ac12b0 HTTP/1.1" 200 -
+2025-09-03 23:33:00,713 - werkzeug - INFO -  * Detected change in 'C:\\Users\\loboa\\Desktop\\newstudentmonitoringsystem\\test_models.py', reloading
+2025-09-03 23:44:31,682 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 23:44:31] "POST /upload HTTP/1.1" 200 -
+2025-09-03 23:44:31,743 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 23:44:31] "GET /status/243eaf94-ef36-4f78-b213-b7822bec216a HTTP/1.1" 200 -
+2025-09-03 23:44:31,764 - root - INFO - Face recognition model loaded from models/face_recognition_model.pkl
+2025-09-03 23:44:31,765 - root - INFO - Loaded face recognition model with 0 known faces
+2025-09-03 23:44:32,043 - root - INFO - YOLO model loaded successfully
+2025-09-03 23:44:32,043 - root - INFO - Student Monitoring System initialized successfully
+2025-09-03 23:44:32,053 - root - INFO - Started monitoring session: 0475037c-9416-40e4-a2dc-43fda96bdca2
+2025-09-03 23:44:32,053 - root - INFO - Session type: regular_class, Exam mode: False
+2025-09-03 23:44:33,788 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 23:44:33] "GET /status/243eaf94-ef36-4f78-b213-b7822bec216a HTTP/1.1" 200 -
+2025-09-03 23:44:34,661 - root - INFO - Ended monitoring session: 0475037c-9416-40e4-a2dc-43fda96bdca2
+2025-09-03 23:44:34,662 - root - ERROR - Error getting attendance report: Execution failed on sql '
+                SELECT 
+                    al.student_id,
+                    s.name,
+                    al.attendance_status,
+                    al.confidence_score,
+                    al.timestamp
+                FROM attendance_logs al
+                LEFT JOIN students s ON al.student_id = s.student_id
+                WHERE al.session_id = ?
+                ORDER BY al.timestamp
+            ': Incorrect number of bindings supplied. The current statement uses 1, and there are 0 supplied.
+2025-09-03 23:44:35,801 - werkzeug - INFO - 127.0.0.1 - - [03/Sep/2025 23:44:35] "GET /status/243eaf94-ef36-4f78-b213-b7822bec216a HTTP/1.1" 200 -
+2025-09-03 23:46:11,790 - werkzeug - INFO -  * Detected change in 'C:\\Users\\loboa\\Desktop\\newstudentmonitoringsystem\\config_short_videos.py', reloading
+2025-09-04 21:32:45,611 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 21:32:45] "POST /upload HTTP/1.1" 200 -
+2025-09-04 21:32:45,645 - root - INFO - Face recognition model loaded from models/face_recognition_model.pkl
+2025-09-04 21:32:45,646 - root - INFO - Loaded face recognition model with 0 known faces
+2025-09-04 21:32:45,707 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 21:32:45] "GET /status/8ba7af1e-5df1-4038-a225-12e684c44b96 HTTP/1.1" 200 -
+2025-09-04 21:32:46,543 - root - INFO - YOLO model loaded successfully
+2025-09-04 21:32:46,543 - root - INFO - Student Monitoring System initialized successfully
+2025-09-04 21:32:46,552 - root - INFO - Started monitoring session: d83ece54-0a88-4bb4-8962-f63c0d6fc315
+2025-09-04 21:32:46,552 - root - INFO - Session type: regular_class, Exam mode: False
+2025-09-04 21:32:47,729 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 21:32:47] "GET /status/8ba7af1e-5df1-4038-a225-12e684c44b96 HTTP/1.1" 200 -
+2025-09-04 21:32:49,739 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 21:32:49] "GET /status/8ba7af1e-5df1-4038-a225-12e684c44b96 HTTP/1.1" 200 -
+2025-09-04 21:32:51,764 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 21:32:51] "GET /status/8ba7af1e-5df1-4038-a225-12e684c44b96 HTTP/1.1" 200 -
+2025-09-04 21:32:53,789 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 21:32:53] "GET /status/8ba7af1e-5df1-4038-a225-12e684c44b96 HTTP/1.1" 200 -
+2025-09-04 21:32:55,804 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 21:32:55] "GET /status/8ba7af1e-5df1-4038-a225-12e684c44b96 HTTP/1.1" 200 -
+2025-09-04 21:32:57,818 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 21:32:57] "GET /status/8ba7af1e-5df1-4038-a225-12e684c44b96 HTTP/1.1" 200 -
+2025-09-04 21:32:59,829 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 21:32:59] "GET /status/8ba7af1e-5df1-4038-a225-12e684c44b96 HTTP/1.1" 200 -
+2025-09-04 21:33:01,844 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 21:33:01] "GET /status/8ba7af1e-5df1-4038-a225-12e684c44b96 HTTP/1.1" 200 -
+2025-09-04 21:33:03,856 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 21:33:03] "GET /status/8ba7af1e-5df1-4038-a225-12e684c44b96 HTTP/1.1" 200 -
+2025-09-04 21:33:05,869 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 21:33:05] "GET /status/8ba7af1e-5df1-4038-a225-12e684c44b96 HTTP/1.1" 200 -
+2025-09-04 21:33:07,886 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 21:33:07] "GET /status/8ba7af1e-5df1-4038-a225-12e684c44b96 HTTP/1.1" 200 -
+2025-09-04 21:33:09,907 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 21:33:09] "GET /status/8ba7af1e-5df1-4038-a225-12e684c44b96 HTTP/1.1" 200 -
+2025-09-04 21:33:11,923 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 21:33:11] "GET /status/8ba7af1e-5df1-4038-a225-12e684c44b96 HTTP/1.1" 200 -
+2025-09-04 21:33:13,937 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 21:33:13] "GET /status/8ba7af1e-5df1-4038-a225-12e684c44b96 HTTP/1.1" 200 -
+2025-09-04 21:33:15,949 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 21:33:15] "GET /status/8ba7af1e-5df1-4038-a225-12e684c44b96 HTTP/1.1" 200 -
+2025-09-04 21:33:17,972 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 21:33:17] "GET /status/8ba7af1e-5df1-4038-a225-12e684c44b96 HTTP/1.1" 200 -
+2025-09-04 21:33:19,987 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 21:33:19] "GET /status/8ba7af1e-5df1-4038-a225-12e684c44b96 HTTP/1.1" 200 -
+2025-09-04 21:33:22,012 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 21:33:22] "GET /status/8ba7af1e-5df1-4038-a225-12e684c44b96 HTTP/1.1" 200 -
+2025-09-04 21:33:24,030 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 21:33:24] "GET /status/8ba7af1e-5df1-4038-a225-12e684c44b96 HTTP/1.1" 200 -
+2025-09-04 21:33:26,050 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 21:33:26] "GET /status/8ba7af1e-5df1-4038-a225-12e684c44b96 HTTP/1.1" 200 -
+2025-09-04 21:33:28,066 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 21:33:28] "GET /status/8ba7af1e-5df1-4038-a225-12e684c44b96 HTTP/1.1" 200 -
+2025-09-04 21:33:30,079 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 21:33:30] "GET /status/8ba7af1e-5df1-4038-a225-12e684c44b96 HTTP/1.1" 200 -
+2025-09-04 21:33:32,094 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 21:33:32] "GET /status/8ba7af1e-5df1-4038-a225-12e684c44b96 HTTP/1.1" 200 -
+2025-09-04 21:33:34,109 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 21:33:34] "GET /status/8ba7af1e-5df1-4038-a225-12e684c44b96 HTTP/1.1" 200 -
+2025-09-04 21:33:36,124 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 21:33:36] "GET /status/8ba7af1e-5df1-4038-a225-12e684c44b96 HTTP/1.1" 200 -
+2025-09-04 21:33:38,139 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 21:33:38] "GET /status/8ba7af1e-5df1-4038-a225-12e684c44b96 HTTP/1.1" 200 -
+2025-09-04 21:33:40,151 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 21:33:40] "GET /status/8ba7af1e-5df1-4038-a225-12e684c44b96 HTTP/1.1" 200 -
+2025-09-04 21:33:42,165 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 21:33:42] "GET /status/8ba7af1e-5df1-4038-a225-12e684c44b96 HTTP/1.1" 200 -
+2025-09-04 21:33:44,182 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 21:33:44] "GET /status/8ba7af1e-5df1-4038-a225-12e684c44b96 HTTP/1.1" 200 -
+2025-09-04 21:33:46,198 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 21:33:46] "GET /status/8ba7af1e-5df1-4038-a225-12e684c44b96 HTTP/1.1" 200 -
+2025-09-04 21:33:48,219 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 21:33:48] "GET /status/8ba7af1e-5df1-4038-a225-12e684c44b96 HTTP/1.1" 200 -
+2025-09-04 21:33:50,238 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 21:33:50] "GET /status/8ba7af1e-5df1-4038-a225-12e684c44b96 HTTP/1.1" 200 -
+2025-09-04 21:33:52,252 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 21:33:52] "GET /status/8ba7af1e-5df1-4038-a225-12e684c44b96 HTTP/1.1" 200 -
+2025-09-04 21:33:54,261 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 21:33:54] "GET /status/8ba7af1e-5df1-4038-a225-12e684c44b96 HTTP/1.1" 200 -
+2025-09-04 21:33:56,284 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 21:33:56] "GET /status/8ba7af1e-5df1-4038-a225-12e684c44b96 HTTP/1.1" 200 -
+2025-09-04 21:33:58,299 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 21:33:58] "GET /status/8ba7af1e-5df1-4038-a225-12e684c44b96 HTTP/1.1" 200 -
+2025-09-04 21:34:00,314 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 21:34:00] "GET /status/8ba7af1e-5df1-4038-a225-12e684c44b96 HTTP/1.1" 200 -
+2025-09-04 21:34:02,324 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 21:34:02] "GET /status/8ba7af1e-5df1-4038-a225-12e684c44b96 HTTP/1.1" 200 -
+2025-09-04 21:34:04,336 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 21:34:04] "GET /status/8ba7af1e-5df1-4038-a225-12e684c44b96 HTTP/1.1" 200 -
+2025-09-04 21:34:06,351 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 21:34:06] "GET /status/8ba7af1e-5df1-4038-a225-12e684c44b96 HTTP/1.1" 200 -
+2025-09-04 21:34:08,364 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 21:34:08] "GET /status/8ba7af1e-5df1-4038-a225-12e684c44b96 HTTP/1.1" 200 -
+2025-09-04 21:34:10,378 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 21:34:10] "GET /status/8ba7af1e-5df1-4038-a225-12e684c44b96 HTTP/1.1" 200 -
+2025-09-04 21:34:12,391 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 21:34:12] "GET /status/8ba7af1e-5df1-4038-a225-12e684c44b96 HTTP/1.1" 200 -
+2025-09-04 21:34:14,407 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 21:34:14] "GET /status/8ba7af1e-5df1-4038-a225-12e684c44b96 HTTP/1.1" 200 -
+2025-09-04 21:34:16,420 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 21:34:16] "GET /status/8ba7af1e-5df1-4038-a225-12e684c44b96 HTTP/1.1" 200 -
+2025-09-04 21:34:18,444 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 21:34:18] "GET /status/8ba7af1e-5df1-4038-a225-12e684c44b96 HTTP/1.1" 200 -
+2025-09-04 21:34:20,460 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 21:34:20] "GET /status/8ba7af1e-5df1-4038-a225-12e684c44b96 HTTP/1.1" 200 -
+2025-09-04 21:34:22,481 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 21:34:22] "GET /status/8ba7af1e-5df1-4038-a225-12e684c44b96 HTTP/1.1" 200 -
+2025-09-04 21:34:24,502 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 21:34:24] "GET /status/8ba7af1e-5df1-4038-a225-12e684c44b96 HTTP/1.1" 200 -
+2025-09-04 21:34:26,527 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 21:34:26] "GET /status/8ba7af1e-5df1-4038-a225-12e684c44b96 HTTP/1.1" 200 -
+2025-09-04 21:34:28,540 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 21:34:28] "GET /status/8ba7af1e-5df1-4038-a225-12e684c44b96 HTTP/1.1" 200 -
+2025-09-04 21:34:30,553 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 21:34:30] "GET /status/8ba7af1e-5df1-4038-a225-12e684c44b96 HTTP/1.1" 200 -
+2025-09-04 21:34:32,565 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 21:34:32] "GET /status/8ba7af1e-5df1-4038-a225-12e684c44b96 HTTP/1.1" 200 -
+2025-09-04 21:34:34,585 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 21:34:34] "GET /status/8ba7af1e-5df1-4038-a225-12e684c44b96 HTTP/1.1" 200 -
+2025-09-04 21:34:36,598 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 21:34:36] "GET /status/8ba7af1e-5df1-4038-a225-12e684c44b96 HTTP/1.1" 200 -
+2025-09-04 21:34:38,611 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 21:34:38] "GET /status/8ba7af1e-5df1-4038-a225-12e684c44b96 HTTP/1.1" 200 -
+2025-09-04 21:34:40,625 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 21:34:40] "GET /status/8ba7af1e-5df1-4038-a225-12e684c44b96 HTTP/1.1" 200 -
+2025-09-04 21:34:42,640 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 21:34:42] "GET /status/8ba7af1e-5df1-4038-a225-12e684c44b96 HTTP/1.1" 200 -
+2025-09-04 21:34:44,655 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 21:34:44] "GET /status/8ba7af1e-5df1-4038-a225-12e684c44b96 HTTP/1.1" 200 -
+2025-09-04 21:34:46,674 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 21:34:46] "GET /status/8ba7af1e-5df1-4038-a225-12e684c44b96 HTTP/1.1" 200 -
+2025-09-04 21:34:48,689 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 21:34:48] "GET /status/8ba7af1e-5df1-4038-a225-12e684c44b96 HTTP/1.1" 200 -
+2025-09-04 21:34:50,713 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 21:34:50] "GET /status/8ba7af1e-5df1-4038-a225-12e684c44b96 HTTP/1.1" 200 -
+2025-09-04 21:34:52,728 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 21:34:52] "GET /status/8ba7af1e-5df1-4038-a225-12e684c44b96 HTTP/1.1" 200 -
+2025-09-04 21:34:54,747 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 21:34:54] "GET /status/8ba7af1e-5df1-4038-a225-12e684c44b96 HTTP/1.1" 200 -
+2025-09-04 21:34:56,762 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 21:34:56] "GET /status/8ba7af1e-5df1-4038-a225-12e684c44b96 HTTP/1.1" 200 -
+2025-09-04 21:34:58,775 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 21:34:58] "GET /status/8ba7af1e-5df1-4038-a225-12e684c44b96 HTTP/1.1" 200 -
+2025-09-04 21:35:00,791 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 21:35:00] "GET /status/8ba7af1e-5df1-4038-a225-12e684c44b96 HTTP/1.1" 200 -
+2025-09-04 21:35:02,805 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 21:35:02] "GET /status/8ba7af1e-5df1-4038-a225-12e684c44b96 HTTP/1.1" 200 -
+2025-09-04 21:35:04,819 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 21:35:04] "GET /status/8ba7af1e-5df1-4038-a225-12e684c44b96 HTTP/1.1" 200 -
+2025-09-04 21:35:06,835 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 21:35:06] "GET /status/8ba7af1e-5df1-4038-a225-12e684c44b96 HTTP/1.1" 200 -
+2025-09-04 21:35:08,861 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 21:35:08] "GET /status/8ba7af1e-5df1-4038-a225-12e684c44b96 HTTP/1.1" 200 -
+2025-09-04 21:35:10,875 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 21:35:10] "GET /status/8ba7af1e-5df1-4038-a225-12e684c44b96 HTTP/1.1" 200 -
+2025-09-04 21:35:12,895 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 21:35:12] "GET /status/8ba7af1e-5df1-4038-a225-12e684c44b96 HTTP/1.1" 200 -
+2025-09-04 21:35:14,915 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 21:35:14] "GET /status/8ba7af1e-5df1-4038-a225-12e684c44b96 HTTP/1.1" 200 -
+2025-09-04 21:35:16,930 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 21:35:16] "GET /status/8ba7af1e-5df1-4038-a225-12e684c44b96 HTTP/1.1" 200 -
+2025-09-04 21:35:18,948 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 21:35:18] "GET /status/8ba7af1e-5df1-4038-a225-12e684c44b96 HTTP/1.1" 200 -
+2025-09-04 21:35:20,270 - root - INFO - Ended monitoring session: d83ece54-0a88-4bb4-8962-f63c0d6fc315
+2025-09-04 21:35:20,271 - root - ERROR - Error getting attendance report: Execution failed on sql '
+                SELECT 
+                    al.student_id,
+                    s.name,
+                    al.attendance_status,
+                    al.confidence_score,
+                    al.timestamp
+                FROM attendance_logs al
+                LEFT JOIN students s ON al.student_id = s.student_id
+                WHERE al.session_id = ?
+                ORDER BY al.timestamp
+            ': Incorrect number of bindings supplied. The current statement uses 1, and there are 0 supplied.
+2025-09-04 21:35:20,970 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 21:35:20] "GET /status/8ba7af1e-5df1-4038-a225-12e684c44b96 HTTP/1.1" 200 -
+2025-09-04 21:35:49,499 - werkzeug - INFO - 127.0.0.1 - - [04/Sep/2025 21:35:49] "[33mGET /download/undefined HTTP/1.1[0m" 404 -
+2025-09-04 23:10:30,856 - werkzeug - INFO -  * Detected change in 'C:\\Users\\loboa\\Desktop\\newstudentmonitoringsystem\\test_models.py', reloading
+2025-09-05 09:06:06,724 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:06:06] "POST /upload HTTP/1.1" 200 -
+2025-09-05 09:06:06,737 - root - INFO - Face recognition model loaded from models/face_recognition_model.pkl
+2025-09-05 09:06:06,738 - root - INFO - Loaded face recognition model with 0 known faces
+2025-09-05 09:06:06,802 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:06:06] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:06:08,131 - root - INFO - YOLO model loaded successfully
+2025-09-05 09:06:08,132 - root - INFO - Student Monitoring System initialized successfully
+2025-09-05 09:06:08,144 - root - INFO - Started monitoring session: 850c5b6c-991d-4104-bcde-f1e0cd3da67f
+2025-09-05 09:06:08,145 - root - INFO - Session type: regular_class, Exam mode: False
+2025-09-05 09:06:08,854 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:06:08] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:06:10,867 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:06:10] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:06:12,877 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:06:12] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:06:14,907 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:06:14] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:06:16,923 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:06:16] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:06:18,940 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:06:18] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:06:20,964 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:06:20] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:06:22,989 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:06:22] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:06:25,014 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:06:25] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:06:27,029 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:06:27] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:06:29,051 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:06:29] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:06:31,078 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:06:31] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:06:33,106 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:06:33] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:06:35,136 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:06:35] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:06:37,176 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:06:37] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:06:39,205 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:06:39] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:06:41,235 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:06:41] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:06:43,256 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:06:43] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:06:45,269 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:06:45] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:06:47,286 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:06:47] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:06:49,306 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:06:49] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:06:51,329 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:06:51] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:06:53,356 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:06:53] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:06:55,371 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:06:55] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:06:57,387 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:06:57] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:06:59,413 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:06:59] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:07:01,442 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:07:01] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:07:03,472 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:07:03] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:07:05,500 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:07:05] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:07:07,521 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:07:07] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:07:09,554 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:07:09] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:07:11,573 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:07:11] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:07:13,585 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:07:13] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:07:15,607 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:07:15] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:07:17,622 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:07:17] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:07:19,640 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:07:19] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:07:21,666 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:07:21] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:07:23,683 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:07:23] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:07:25,708 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:07:25] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:07:27,732 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:07:27] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:07:29,744 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:07:29] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:07:31,760 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:07:31] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:07:33,777 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:07:33] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:07:35,794 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:07:35] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:07:37,806 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:07:37] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:07:39,822 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:07:39] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:07:41,836 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:07:41] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:07:43,846 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:07:43] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:07:45,869 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:07:45] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:07:47,894 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:07:47] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:07:49,920 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:07:49] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:07:51,935 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:07:51] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:07:53,961 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:07:53] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:07:55,981 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:07:55] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:07:58,003 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:07:58] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:08:00,022 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:08:00] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:08:02,049 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:08:02] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:08:04,079 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:08:04] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:08:06,102 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:08:06] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:08:08,125 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:08:08] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:08:10,141 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:08:10] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:08:12,164 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:08:12] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:08:14,178 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:08:14] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:08:17,046 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:08:17] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:08:20,072 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:08:20] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:08:23,067 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:08:23] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:08:26,040 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:08:26] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:08:29,056 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:08:29] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:08:32,050 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:08:32] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:08:35,048 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:08:35] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:08:38,058 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:08:38] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:08:41,051 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:08:41] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:08:44,058 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:08:44] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:08:47,054 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:08:47] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:08:50,044 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:08:50] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:08:53,057 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:08:53] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:08:56,054 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:08:56] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:08:59,049 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:08:59] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:09:02,047 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:09:02] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:09:05,041 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:09:05] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:09:08,050 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:09:08] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:09:11,049 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:09:11] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:09:14,055 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:09:14] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:09:17,040 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:09:17] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:09:20,044 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:09:20] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:09:23,049 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:09:23] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:09:26,057 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:09:26] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:09:29,055 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:09:29] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:09:32,052 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:09:32] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:09:35,049 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:09:35] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:09:37,086 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:09:37] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:09:39,132 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:09:39] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:09:41,188 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:09:41] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:09:43,209 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:09:43] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:09:45,222 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:09:45] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:09:47,240 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:09:47] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:09:49,257 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:09:49] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:09:51,283 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:09:51] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:09:53,303 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:09:53] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:09:55,329 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:09:55] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:09:57,341 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:09:57] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:09:59,356 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:09:59] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:10:01,373 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:10:01] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:10:01,504 - root - INFO - Ended monitoring session: 850c5b6c-991d-4104-bcde-f1e0cd3da67f
+2025-09-05 09:10:01,508 - root - ERROR - Error getting attendance report: Execution failed on sql '
+                SELECT 
+                    al.student_id,
+                    s.name,
+                    al.attendance_status,
+                    al.confidence_score,
+                    al.timestamp
+                FROM attendance_logs al
+                LEFT JOIN students s ON al.student_id = s.student_id
+                WHERE al.session_id = ?
+                ORDER BY al.timestamp
+            ': Incorrect number of bindings supplied. The current statement uses 1, and there are 0 supplied.
+2025-09-05 09:10:03,392 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:10:03] "GET /status/e3c708ec-005b-45d2-9f4c-4209404db7c0 HTTP/1.1" 200 -
+2025-09-05 09:12:12,821 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 09:12:12] "[33mGET /download/undefined HTTP/1.1[0m" 404 -
+2025-09-05 09:25:42,589 - werkzeug - INFO -  * Detected change in 'C:\\Users\\loboa\\Desktop\\newstudentmonitoringsystem\\debug_monitoring_system.py', reloading
+2025-09-05 10:22:32,566 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 10:22:32] "POST /upload HTTP/1.1" 200 -
+2025-09-05 10:22:32,588 - root - INFO - Face recognition model loaded from models/face_recognition_model.pkl
+2025-09-05 10:22:32,588 - root - INFO - Loaded face recognition model with 0 known faces
+2025-09-05 10:22:32,660 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 10:22:32] "GET /status/382e3cf8-8183-4d94-b558-484733e2172b HTTP/1.1" 200 -
+2025-09-05 10:22:33,052 - root - INFO - YOLO model loaded successfully
+2025-09-05 10:22:33,052 - root - INFO - Student Monitoring System initialized successfully
+2025-09-05 10:22:33,059 - root - INFO - Started monitoring session: 5e44040f-7d3a-4ebc-9b85-139c68b61275
+2025-09-05 10:22:33,059 - root - INFO - Session type: regular_class, Exam mode: False
+2025-09-05 10:22:34,676 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 10:22:34] "GET /status/382e3cf8-8183-4d94-b558-484733e2172b HTTP/1.1" 200 -
+2025-09-05 10:22:36,690 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 10:22:36] "GET /status/382e3cf8-8183-4d94-b558-484733e2172b HTTP/1.1" 200 -
+2025-09-05 10:22:38,720 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 10:22:38] "GET /status/382e3cf8-8183-4d94-b558-484733e2172b HTTP/1.1" 200 -
+2025-09-05 10:22:40,734 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 10:22:40] "GET /status/382e3cf8-8183-4d94-b558-484733e2172b HTTP/1.1" 200 -
+2025-09-05 10:22:42,758 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 10:22:42] "GET /status/382e3cf8-8183-4d94-b558-484733e2172b HTTP/1.1" 200 -
+2025-09-05 10:22:44,773 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 10:22:44] "GET /status/382e3cf8-8183-4d94-b558-484733e2172b HTTP/1.1" 200 -
+2025-09-05 10:22:46,797 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 10:22:46] "GET /status/382e3cf8-8183-4d94-b558-484733e2172b HTTP/1.1" 200 -
+2025-09-05 10:22:48,814 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 10:22:48] "GET /status/382e3cf8-8183-4d94-b558-484733e2172b HTTP/1.1" 200 -
+2025-09-05 10:22:50,827 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 10:22:50] "GET /status/382e3cf8-8183-4d94-b558-484733e2172b HTTP/1.1" 200 -
+2025-09-05 10:22:52,837 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 10:22:52] "GET /status/382e3cf8-8183-4d94-b558-484733e2172b HTTP/1.1" 200 -
+2025-09-05 10:22:54,933 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 10:22:54] "GET /status/382e3cf8-8183-4d94-b558-484733e2172b HTTP/1.1" 200 -
+2025-09-05 10:22:56,955 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 10:22:56] "GET /status/382e3cf8-8183-4d94-b558-484733e2172b HTTP/1.1" 200 -
+2025-09-05 10:22:58,968 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 10:22:58] "GET /status/382e3cf8-8183-4d94-b558-484733e2172b HTTP/1.1" 200 -
+2025-09-05 10:23:00,980 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 10:23:00] "GET /status/382e3cf8-8183-4d94-b558-484733e2172b HTTP/1.1" 200 -
+2025-09-05 10:23:02,998 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 10:23:02] "GET /status/382e3cf8-8183-4d94-b558-484733e2172b HTTP/1.1" 200 -
+2025-09-05 10:23:05,013 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 10:23:05] "GET /status/382e3cf8-8183-4d94-b558-484733e2172b HTTP/1.1" 200 -
+2025-09-05 10:23:07,045 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 10:23:07] "GET /status/382e3cf8-8183-4d94-b558-484733e2172b HTTP/1.1" 200 -
+2025-09-05 10:23:10,046 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 10:23:10] "GET /status/382e3cf8-8183-4d94-b558-484733e2172b HTTP/1.1" 200 -
+2025-09-05 10:23:13,040 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 10:23:13] "GET /status/382e3cf8-8183-4d94-b558-484733e2172b HTTP/1.1" 200 -
+2025-09-05 10:23:16,044 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 10:23:16] "GET /status/382e3cf8-8183-4d94-b558-484733e2172b HTTP/1.1" 200 -
+2025-09-05 10:23:19,046 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 10:23:19] "GET /status/382e3cf8-8183-4d94-b558-484733e2172b HTTP/1.1" 200 -
+2025-09-05 10:23:22,047 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 10:23:22] "GET /status/382e3cf8-8183-4d94-b558-484733e2172b HTTP/1.1" 200 -
+2025-09-05 10:23:25,039 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 10:23:25] "GET /status/382e3cf8-8183-4d94-b558-484733e2172b HTTP/1.1" 200 -
+2025-09-05 10:23:28,045 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 10:23:28] "GET /status/382e3cf8-8183-4d94-b558-484733e2172b HTTP/1.1" 200 -
+2025-09-05 10:23:31,037 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 10:23:31] "GET /status/382e3cf8-8183-4d94-b558-484733e2172b HTTP/1.1" 200 -
+2025-09-05 10:23:34,039 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 10:23:34] "GET /status/382e3cf8-8183-4d94-b558-484733e2172b HTTP/1.1" 200 -
+2025-09-05 10:23:37,044 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 10:23:37] "GET /status/382e3cf8-8183-4d94-b558-484733e2172b HTTP/1.1" 200 -
+2025-09-05 10:23:39,058 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 10:23:39] "GET /status/382e3cf8-8183-4d94-b558-484733e2172b HTTP/1.1" 200 -
+2025-09-05 10:23:41,082 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 10:23:41] "GET /status/382e3cf8-8183-4d94-b558-484733e2172b HTTP/1.1" 200 -
+2025-09-05 10:23:43,098 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 10:23:43] "GET /status/382e3cf8-8183-4d94-b558-484733e2172b HTTP/1.1" 200 -
+2025-09-05 10:23:45,109 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 10:23:45] "GET /status/382e3cf8-8183-4d94-b558-484733e2172b HTTP/1.1" 200 -
+2025-09-05 10:23:47,131 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 10:23:47] "GET /status/382e3cf8-8183-4d94-b558-484733e2172b HTTP/1.1" 200 -
+2025-09-05 10:23:49,154 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 10:23:49] "GET /status/382e3cf8-8183-4d94-b558-484733e2172b HTTP/1.1" 200 -
+2025-09-05 10:23:51,174 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 10:23:51] "GET /status/382e3cf8-8183-4d94-b558-484733e2172b HTTP/1.1" 200 -
+2025-09-05 10:23:53,185 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 10:23:53] "GET /status/382e3cf8-8183-4d94-b558-484733e2172b HTTP/1.1" 200 -
+2025-09-05 10:23:55,195 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 10:23:55] "GET /status/382e3cf8-8183-4d94-b558-484733e2172b HTTP/1.1" 200 -
+2025-09-05 10:23:57,209 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 10:23:57] "GET /status/382e3cf8-8183-4d94-b558-484733e2172b HTTP/1.1" 200 -
+2025-09-05 10:23:59,226 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 10:23:59] "GET /status/382e3cf8-8183-4d94-b558-484733e2172b HTTP/1.1" 200 -
+2025-09-05 10:24:01,244 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 10:24:01] "GET /status/382e3cf8-8183-4d94-b558-484733e2172b HTTP/1.1" 200 -
+2025-09-05 10:24:03,259 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 10:24:03] "GET /status/382e3cf8-8183-4d94-b558-484733e2172b HTTP/1.1" 200 -
+2025-09-05 10:24:05,285 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 10:24:05] "GET /status/382e3cf8-8183-4d94-b558-484733e2172b HTTP/1.1" 200 -
+2025-09-05 10:24:07,302 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 10:24:07] "GET /status/382e3cf8-8183-4d94-b558-484733e2172b HTTP/1.1" 200 -
+2025-09-05 10:24:09,323 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 10:24:09] "GET /status/382e3cf8-8183-4d94-b558-484733e2172b HTTP/1.1" 200 -
+2025-09-05 10:24:11,338 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 10:24:11] "GET /status/382e3cf8-8183-4d94-b558-484733e2172b HTTP/1.1" 200 -
+2025-09-05 10:24:13,357 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 10:24:13] "GET /status/382e3cf8-8183-4d94-b558-484733e2172b HTTP/1.1" 200 -
+2025-09-05 10:24:15,372 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 10:24:15] "GET /status/382e3cf8-8183-4d94-b558-484733e2172b HTTP/1.1" 200 -
+2025-09-05 10:24:17,386 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 10:24:17] "GET /status/382e3cf8-8183-4d94-b558-484733e2172b HTTP/1.1" 200 -
+2025-09-05 10:24:19,403 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 10:24:19] "GET /status/382e3cf8-8183-4d94-b558-484733e2172b HTTP/1.1" 200 -
+2025-09-05 10:24:21,417 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 10:24:21] "GET /status/382e3cf8-8183-4d94-b558-484733e2172b HTTP/1.1" 200 -
+2025-09-05 10:24:23,441 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 10:24:23] "GET /status/382e3cf8-8183-4d94-b558-484733e2172b HTTP/1.1" 200 -
+2025-09-05 10:24:25,461 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 10:24:25] "GET /status/382e3cf8-8183-4d94-b558-484733e2172b HTTP/1.1" 200 -
+2025-09-05 10:24:27,475 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 10:24:27] "GET /status/382e3cf8-8183-4d94-b558-484733e2172b HTTP/1.1" 200 -
+2025-09-05 10:24:29,495 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 10:24:29] "GET /status/382e3cf8-8183-4d94-b558-484733e2172b HTTP/1.1" 200 -
+2025-09-05 10:24:31,511 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 10:24:31] "GET /status/382e3cf8-8183-4d94-b558-484733e2172b HTTP/1.1" 200 -
+2025-09-05 10:24:33,528 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 10:24:33] "GET /status/382e3cf8-8183-4d94-b558-484733e2172b HTTP/1.1" 200 -
+2025-09-05 10:24:35,543 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 10:24:35] "GET /status/382e3cf8-8183-4d94-b558-484733e2172b HTTP/1.1" 200 -
+2025-09-05 10:24:37,560 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 10:24:37] "GET /status/382e3cf8-8183-4d94-b558-484733e2172b HTTP/1.1" 200 -
+2025-09-05 10:24:39,579 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 10:24:39] "GET /status/382e3cf8-8183-4d94-b558-484733e2172b HTTP/1.1" 200 -
+2025-09-05 10:24:41,594 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 10:24:41] "GET /status/382e3cf8-8183-4d94-b558-484733e2172b HTTP/1.1" 200 -
+2025-09-05 10:24:43,617 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 10:24:43] "GET /status/382e3cf8-8183-4d94-b558-484733e2172b HTTP/1.1" 200 -
+2025-09-05 10:24:45,640 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 10:24:45] "GET /status/382e3cf8-8183-4d94-b558-484733e2172b HTTP/1.1" 200 -
+2025-09-05 10:24:47,661 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 10:24:47] "GET /status/382e3cf8-8183-4d94-b558-484733e2172b HTTP/1.1" 200 -
+2025-09-05 10:24:49,678 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 10:24:49] "GET /status/382e3cf8-8183-4d94-b558-484733e2172b HTTP/1.1" 200 -
+2025-09-05 10:24:51,703 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 10:24:51] "GET /status/382e3cf8-8183-4d94-b558-484733e2172b HTTP/1.1" 200 -
+2025-09-05 10:24:53,719 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 10:24:53] "GET /status/382e3cf8-8183-4d94-b558-484733e2172b HTTP/1.1" 200 -
+2025-09-05 10:24:55,740 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 10:24:55] "GET /status/382e3cf8-8183-4d94-b558-484733e2172b HTTP/1.1" 200 -
+2025-09-05 10:24:57,764 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 10:24:57] "GET /status/382e3cf8-8183-4d94-b558-484733e2172b HTTP/1.1" 200 -
+2025-09-05 10:24:59,785 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 10:24:59] "GET /status/382e3cf8-8183-4d94-b558-484733e2172b HTTP/1.1" 200 -
+2025-09-05 10:25:01,808 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 10:25:01] "GET /status/382e3cf8-8183-4d94-b558-484733e2172b HTTP/1.1" 200 -
+2025-09-05 10:25:03,540 - root - INFO - Ended monitoring session: 5e44040f-7d3a-4ebc-9b85-139c68b61275
+2025-09-05 10:25:03,541 - root - ERROR - Error getting attendance report: Execution failed on sql '
+                SELECT 
+                    al.student_id,
+                    s.name,
+                    al.attendance_status,
+                    al.confidence_score,
+                    al.timestamp
+                FROM attendance_logs al
+                LEFT JOIN students s ON al.student_id = s.student_id
+                WHERE al.session_id = ?
+                ORDER BY al.timestamp
+            ': Incorrect number of bindings supplied. The current statement uses 1, and there are 0 supplied.
+2025-09-05 10:25:03,829 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 10:25:03] "GET /status/382e3cf8-8183-4d94-b558-484733e2172b HTTP/1.1" 200 -
+2025-09-05 10:25:11,036 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 10:25:11] "GET /gallery HTTP/1.1" 200 -
+2025-09-05 10:25:27,119 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 10:25:27] "GET / HTTP/1.1" 200 -
+2025-09-05 11:38:31,222 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:38:31] "POST /upload HTTP/1.1" 200 -
+2025-09-05 11:38:31,249 - root - INFO - Face recognition model loaded from models/face_recognition_model.pkl
+2025-09-05 11:38:31,250 - root - INFO - Loaded face recognition model with 39 known faces
+2025-09-05 11:38:31,316 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:38:31] "GET /status/9180765d-7508-40c0-8b17-51d87c4b4ba7 HTTP/1.1" 200 -
+2025-09-05 11:38:31,734 - root - INFO - YOLO model loaded successfully
+2025-09-05 11:38:31,734 - root - INFO - Student Monitoring System initialized successfully
+2025-09-05 11:38:31,744 - root - INFO - Started monitoring session: ab96aa3f-2590-46c8-82e8-baf602325e4f
+2025-09-05 11:38:31,744 - root - INFO - Session type: regular_class, Exam mode: False
+2025-09-05 11:38:33,375 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:38:33] "GET /status/9180765d-7508-40c0-8b17-51d87c4b4ba7 HTTP/1.1" 200 -
+2025-09-05 11:38:35,394 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:38:35] "GET /status/9180765d-7508-40c0-8b17-51d87c4b4ba7 HTTP/1.1" 200 -
+2025-09-05 11:38:37,418 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:38:37] "GET /status/9180765d-7508-40c0-8b17-51d87c4b4ba7 HTTP/1.1" 200 -
+2025-09-05 11:38:39,430 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:38:39] "GET /status/9180765d-7508-40c0-8b17-51d87c4b4ba7 HTTP/1.1" 200 -
+2025-09-05 11:38:41,451 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:38:41] "GET /status/9180765d-7508-40c0-8b17-51d87c4b4ba7 HTTP/1.1" 200 -
+2025-09-05 11:38:43,473 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:38:43] "GET /status/9180765d-7508-40c0-8b17-51d87c4b4ba7 HTTP/1.1" 200 -
+2025-09-05 11:38:45,500 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:38:45] "GET /status/9180765d-7508-40c0-8b17-51d87c4b4ba7 HTTP/1.1" 200 -
+2025-09-05 11:38:47,524 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:38:47] "GET /status/9180765d-7508-40c0-8b17-51d87c4b4ba7 HTTP/1.1" 200 -
+2025-09-05 11:38:50,046 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:38:50] "GET /status/9180765d-7508-40c0-8b17-51d87c4b4ba7 HTTP/1.1" 200 -
+2025-09-05 11:38:53,048 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:38:53] "GET /status/9180765d-7508-40c0-8b17-51d87c4b4ba7 HTTP/1.1" 200 -
+2025-09-05 11:38:56,115 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:38:56] "GET /status/9180765d-7508-40c0-8b17-51d87c4b4ba7 HTTP/1.1" 200 -
+2025-09-05 11:38:59,037 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:38:59] "GET /status/9180765d-7508-40c0-8b17-51d87c4b4ba7 HTTP/1.1" 200 -
+2025-09-05 11:39:02,036 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:39:02] "GET /status/9180765d-7508-40c0-8b17-51d87c4b4ba7 HTTP/1.1" 200 -
+2025-09-05 11:39:05,038 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:39:05] "GET /status/9180765d-7508-40c0-8b17-51d87c4b4ba7 HTTP/1.1" 200 -
+2025-09-05 11:39:08,046 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:39:08] "GET /status/9180765d-7508-40c0-8b17-51d87c4b4ba7 HTTP/1.1" 200 -
+2025-09-05 11:39:11,043 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:39:11] "GET /status/9180765d-7508-40c0-8b17-51d87c4b4ba7 HTTP/1.1" 200 -
+2025-09-05 11:39:14,049 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:39:14] "GET /status/9180765d-7508-40c0-8b17-51d87c4b4ba7 HTTP/1.1" 200 -
+2025-09-05 11:39:17,048 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:39:17] "GET /status/9180765d-7508-40c0-8b17-51d87c4b4ba7 HTTP/1.1" 200 -
+2025-09-05 11:39:20,046 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:39:20] "GET /status/9180765d-7508-40c0-8b17-51d87c4b4ba7 HTTP/1.1" 200 -
+2025-09-05 11:39:23,036 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:39:23] "GET /status/9180765d-7508-40c0-8b17-51d87c4b4ba7 HTTP/1.1" 200 -
+2025-09-05 11:39:26,059 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:39:26] "GET /status/9180765d-7508-40c0-8b17-51d87c4b4ba7 HTTP/1.1" 200 -
+2025-09-05 11:39:29,045 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:39:29] "GET /status/9180765d-7508-40c0-8b17-51d87c4b4ba7 HTTP/1.1" 200 -
+2025-09-05 11:39:32,048 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:39:32] "GET /status/9180765d-7508-40c0-8b17-51d87c4b4ba7 HTTP/1.1" 200 -
+2025-09-05 11:39:35,049 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:39:35] "GET /status/9180765d-7508-40c0-8b17-51d87c4b4ba7 HTTP/1.1" 200 -
+2025-09-05 11:39:38,037 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:39:38] "GET /status/9180765d-7508-40c0-8b17-51d87c4b4ba7 HTTP/1.1" 200 -
+2025-09-05 11:39:41,042 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:39:41] "GET /status/9180765d-7508-40c0-8b17-51d87c4b4ba7 HTTP/1.1" 200 -
+2025-09-05 11:39:44,041 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:39:44] "GET /status/9180765d-7508-40c0-8b17-51d87c4b4ba7 HTTP/1.1" 200 -
+2025-09-05 11:39:47,034 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:39:47] "GET /status/9180765d-7508-40c0-8b17-51d87c4b4ba7 HTTP/1.1" 200 -
+2025-09-05 11:39:50,041 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:39:50] "GET /status/9180765d-7508-40c0-8b17-51d87c4b4ba7 HTTP/1.1" 200 -
+2025-09-05 11:39:53,046 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:39:53] "GET /status/9180765d-7508-40c0-8b17-51d87c4b4ba7 HTTP/1.1" 200 -
+2025-09-05 11:39:56,037 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:39:56] "GET /status/9180765d-7508-40c0-8b17-51d87c4b4ba7 HTTP/1.1" 200 -
+2025-09-05 11:39:59,053 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:39:59] "GET /status/9180765d-7508-40c0-8b17-51d87c4b4ba7 HTTP/1.1" 200 -
+2025-09-05 11:40:02,050 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:40:02] "GET /status/9180765d-7508-40c0-8b17-51d87c4b4ba7 HTTP/1.1" 200 -
+2025-09-05 11:40:05,044 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:40:05] "GET /status/9180765d-7508-40c0-8b17-51d87c4b4ba7 HTTP/1.1" 200 -
+2025-09-05 11:40:08,051 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:40:08] "GET /status/9180765d-7508-40c0-8b17-51d87c4b4ba7 HTTP/1.1" 200 -
+2025-09-05 11:40:11,051 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:40:11] "GET /status/9180765d-7508-40c0-8b17-51d87c4b4ba7 HTTP/1.1" 200 -
+2025-09-05 11:40:14,039 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:40:14] "GET /status/9180765d-7508-40c0-8b17-51d87c4b4ba7 HTTP/1.1" 200 -
+2025-09-05 11:40:17,038 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:40:17] "GET /status/9180765d-7508-40c0-8b17-51d87c4b4ba7 HTTP/1.1" 200 -
+2025-09-05 11:40:20,040 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:40:20] "GET /status/9180765d-7508-40c0-8b17-51d87c4b4ba7 HTTP/1.1" 200 -
+2025-09-05 11:40:23,045 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:40:23] "GET /status/9180765d-7508-40c0-8b17-51d87c4b4ba7 HTTP/1.1" 200 -
+2025-09-05 11:40:26,037 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:40:26] "GET /status/9180765d-7508-40c0-8b17-51d87c4b4ba7 HTTP/1.1" 200 -
+2025-09-05 11:40:29,040 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:40:29] "GET /status/9180765d-7508-40c0-8b17-51d87c4b4ba7 HTTP/1.1" 200 -
+2025-09-05 11:40:32,036 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:40:32] "GET /status/9180765d-7508-40c0-8b17-51d87c4b4ba7 HTTP/1.1" 200 -
+2025-09-05 11:40:35,041 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:40:35] "GET /status/9180765d-7508-40c0-8b17-51d87c4b4ba7 HTTP/1.1" 200 -
+2025-09-05 11:40:38,041 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:40:38] "GET /status/9180765d-7508-40c0-8b17-51d87c4b4ba7 HTTP/1.1" 200 -
+2025-09-05 11:40:40,052 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:40:40] "GET /status/9180765d-7508-40c0-8b17-51d87c4b4ba7 HTTP/1.1" 200 -
+2025-09-05 11:40:42,075 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:40:42] "GET /status/9180765d-7508-40c0-8b17-51d87c4b4ba7 HTTP/1.1" 200 -
+2025-09-05 11:40:44,099 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:40:44] "GET /status/9180765d-7508-40c0-8b17-51d87c4b4ba7 HTTP/1.1" 200 -
+2025-09-05 11:40:46,118 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:40:46] "GET /status/9180765d-7508-40c0-8b17-51d87c4b4ba7 HTTP/1.1" 200 -
+2025-09-05 11:40:48,130 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:40:48] "GET /status/9180765d-7508-40c0-8b17-51d87c4b4ba7 HTTP/1.1" 200 -
+2025-09-05 11:40:50,141 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:40:50] "GET /status/9180765d-7508-40c0-8b17-51d87c4b4ba7 HTTP/1.1" 200 -
+2025-09-05 11:40:52,160 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:40:52] "GET /status/9180765d-7508-40c0-8b17-51d87c4b4ba7 HTTP/1.1" 200 -
+2025-09-05 11:40:54,182 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:40:54] "GET /status/9180765d-7508-40c0-8b17-51d87c4b4ba7 HTTP/1.1" 200 -
+2025-09-05 11:40:56,207 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:40:56] "GET /status/9180765d-7508-40c0-8b17-51d87c4b4ba7 HTTP/1.1" 200 -
+2025-09-05 11:40:58,220 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:40:58] "GET /status/9180765d-7508-40c0-8b17-51d87c4b4ba7 HTTP/1.1" 200 -
+2025-09-05 11:41:00,234 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:41:00] "GET /status/9180765d-7508-40c0-8b17-51d87c4b4ba7 HTTP/1.1" 200 -
+2025-09-05 11:41:02,255 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:41:02] "GET /status/9180765d-7508-40c0-8b17-51d87c4b4ba7 HTTP/1.1" 200 -
+2025-09-05 11:41:04,267 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:41:04] "GET /status/9180765d-7508-40c0-8b17-51d87c4b4ba7 HTTP/1.1" 200 -
+2025-09-05 11:41:06,292 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:41:06] "GET /status/9180765d-7508-40c0-8b17-51d87c4b4ba7 HTTP/1.1" 200 -
+2025-09-05 11:41:08,314 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:41:08] "GET /status/9180765d-7508-40c0-8b17-51d87c4b4ba7 HTTP/1.1" 200 -
+2025-09-05 11:41:10,328 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:41:10] "GET /status/9180765d-7508-40c0-8b17-51d87c4b4ba7 HTTP/1.1" 200 -
+2025-09-05 11:41:12,347 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:41:12] "GET /status/9180765d-7508-40c0-8b17-51d87c4b4ba7 HTTP/1.1" 200 -
+2025-09-05 11:41:14,359 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:41:14] "GET /status/9180765d-7508-40c0-8b17-51d87c4b4ba7 HTTP/1.1" 200 -
+2025-09-05 11:41:16,372 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:41:16] "GET /status/9180765d-7508-40c0-8b17-51d87c4b4ba7 HTTP/1.1" 200 -
+2025-09-05 11:41:18,394 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:41:18] "GET /status/9180765d-7508-40c0-8b17-51d87c4b4ba7 HTTP/1.1" 200 -
+2025-09-05 11:41:20,419 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:41:20] "GET /status/9180765d-7508-40c0-8b17-51d87c4b4ba7 HTTP/1.1" 200 -
+2025-09-05 11:41:22,443 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:41:22] "GET /status/9180765d-7508-40c0-8b17-51d87c4b4ba7 HTTP/1.1" 200 -
+2025-09-05 11:41:24,467 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:41:24] "GET /status/9180765d-7508-40c0-8b17-51d87c4b4ba7 HTTP/1.1" 200 -
+2025-09-05 11:41:26,490 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:41:26] "GET /status/9180765d-7508-40c0-8b17-51d87c4b4ba7 HTTP/1.1" 200 -
+2025-09-05 11:41:28,508 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:41:28] "GET /status/9180765d-7508-40c0-8b17-51d87c4b4ba7 HTTP/1.1" 200 -
+2025-09-05 11:41:30,530 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:41:30] "GET /status/9180765d-7508-40c0-8b17-51d87c4b4ba7 HTTP/1.1" 200 -
+2025-09-05 11:41:32,548 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:41:32] "GET /status/9180765d-7508-40c0-8b17-51d87c4b4ba7 HTTP/1.1" 200 -
+2025-09-05 11:41:34,109 - root - INFO - Ended monitoring session: ab96aa3f-2590-46c8-82e8-baf602325e4f
+2025-09-05 11:41:34,112 - root - ERROR - Error getting attendance report: Execution failed on sql '
+                SELECT 
+                    al.student_id,
+                    s.name,
+                    al.attendance_status,
+                    al.confidence_score,
+                    al.timestamp
+                FROM attendance_logs al
+                LEFT JOIN students s ON al.student_id = s.student_id
+                WHERE al.session_id = ?
+                ORDER BY al.timestamp
+            ': Incorrect number of bindings supplied. The current statement uses 1, and there are 0 supplied.
+2025-09-05 11:41:34,565 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:41:34] "GET /status/9180765d-7508-40c0-8b17-51d87c4b4ba7 HTTP/1.1" 200 -
+2025-09-05 11:42:06,857 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:42:06] "[33mGET /download/undefined HTTP/1.1[0m" 404 -
+2025-09-05 11:43:57,878 - werkzeug - INFO -  * Detected change in 'C:\\Users\\loboa\\Desktop\\newstudentmonitoringsystem\\main_monitoring_system.py', reloading
+2025-09-05 11:49:05,789 - root - INFO - Face recognition model loaded from models/face_recognition_model.pkl
+2025-09-05 11:49:05,790 - root - INFO - Loaded face recognition model with 39 known faces
+2025-09-05 11:49:06,192 - root - INFO - YOLO model loaded successfully
+2025-09-05 11:49:06,193 - root - INFO - Student Monitoring System initialized successfully
+2025-09-05 11:49:06,202 - root - INFO - Started monitoring session: 27de21ba-fd54-4dcc-9769-fc54b8589b52
+2025-09-05 11:49:06,202 - root - INFO - Session type: test_session, Exam mode: False
+2025-09-05 11:49:06,236 - root - INFO - Processing frame 1 at 2025-09-05 11:49:06.236128
+2025-09-05 11:49:09,360 - root - INFO - Student reevan marked present with confidence 1.0
+2025-09-05 11:49:09,399 - root - INFO - Ended monitoring session: 27de21ba-fd54-4dcc-9769-fc54b8589b52
+2025-09-05 11:49:09,401 - root - ERROR - Error getting attendance report: Execution failed on sql '
+                SELECT 
+                    al.student_id,
+                    s.name,
+                    al.attendance_status,
+                    al.confidence_score,
+                    al.timestamp
+                FROM attendance_logs al
+                LEFT JOIN students s ON al.student_id = s.student_id
+                WHERE al.session_id = ?
+                ORDER BY al.timestamp
+            ': Incorrect number of bindings supplied. The current statement uses 1, and there are 0 supplied.
+2025-09-05 11:49:09,427 - root - INFO - Attention report saved: output/attendance_reports\attention_report_27de21ba-fd54-4dcc-9769-fc54b8589b52_20250905_114909.csv
+2025-09-05 11:49:09,427 - root - INFO - Session Summary:
+2025-09-05 11:49:09,427 - root - INFO -   session_id: 27de21ba-fd54-4dcc-9769-fc54b8589b52
+2025-09-05 11:49:09,427 - root - INFO -   session_duration: 0:00:03.233699
+2025-09-05 11:49:09,428 - root - INFO -   total_frames_analyzed: 1
+2025-09-05 11:49:09,428 - root - INFO -   total_students_detected: 1
+2025-09-05 11:49:09,428 - root - INFO -   average_attention_score: 0.0
+2025-09-05 11:49:09,428 - root - INFO -   average_cheating_probability: 0.0
+2025-09-05 11:49:09,429 - root - INFO -   exam_mode: False
+2025-09-05 11:49:41,186 - root - INFO - Face recognition model loaded from models/face_recognition_model.pkl
+2025-09-05 11:49:41,187 - root - INFO - Loaded face recognition model with 39 known faces
+2025-09-05 11:49:41,471 - root - INFO - YOLO model loaded successfully
+2025-09-05 11:49:41,471 - root - INFO - Student Monitoring System initialized successfully
+2025-09-05 11:49:41,478 - root - INFO - Started monitoring session: b91d1121-0f66-4835-a2e4-842935480bd7
+2025-09-05 11:49:41,479 - root - INFO - Session type: test_report_session, Exam mode: False
+2025-09-05 11:49:41,498 - root - INFO - Processing frame 1 at 2025-09-05 11:49:41.498910
+2025-09-05 11:49:44,010 - root - INFO - Student reevan marked present with confidence 1.0
+2025-09-05 11:49:44,040 - root - INFO - Processing frame 2 at 2025-09-05 11:49:44.040327
+2025-09-05 11:49:44,337 - root - INFO - Processing frame 3 at 2025-09-05 11:49:44.337907
+2025-09-05 11:49:44,516 - root - INFO - Ended monitoring session: b91d1121-0f66-4835-a2e4-842935480bd7
+2025-09-05 11:49:44,517 - root - ERROR - Error getting attendance report: Execution failed on sql '
+                SELECT 
+                    al.student_id,
+                    s.name,
+                    al.attendance_status,
+                    al.confidence_score,
+                    al.timestamp
+                FROM attendance_logs al
+                LEFT JOIN students s ON al.student_id = s.student_id
+                WHERE al.session_id = ?
+                ORDER BY al.timestamp
+            ': Incorrect number of bindings supplied. The current statement uses 1, and there are 0 supplied.
+2025-09-05 11:49:44,525 - root - INFO - Attention report saved: output/attendance_reports\attention_report_b91d1121-0f66-4835-a2e4-842935480bd7_20250905_114944.csv
+2025-09-05 11:49:44,526 - root - INFO - Session Summary:
+2025-09-05 11:49:44,527 - root - INFO -   session_id: b91d1121-0f66-4835-a2e4-842935480bd7
+2025-09-05 11:49:44,527 - root - INFO -   session_duration: 0:00:03.053892
+2025-09-05 11:49:44,528 - root - INFO -   total_frames_analyzed: 3
+2025-09-05 11:49:44,528 - root - INFO -   total_students_detected: 1
+2025-09-05 11:49:44,528 - root - INFO -   average_attention_score: 0.0
+2025-09-05 11:49:44,528 - root - INFO -   average_cheating_probability: 0.0
+2025-09-05 11:49:44,529 - root - INFO -   exam_mode: False
+2025-09-05 11:50:07,376 - root - INFO - Face recognition model loaded from models/face_recognition_model.pkl
+2025-09-05 11:50:07,377 - root - INFO - Loaded face recognition model with 39 known faces
+2025-09-05 11:50:07,721 - root - INFO - YOLO model loaded successfully
+2025-09-05 11:50:07,722 - root - INFO - Student Monitoring System initialized successfully
+2025-09-05 11:50:07,736 - root - INFO - Started monitoring session: c981ab82-6b53-4802-8d8a-a19d458d827a
+2025-09-05 11:50:07,736 - root - INFO - Session type: test_report_session, Exam mode: False
+2025-09-05 11:50:07,765 - root - INFO - Processing frame 1 at 2025-09-05 11:50:07.765723
+2025-09-05 11:50:10,211 - root - INFO - Student reevan marked present with confidence 1.0
+2025-09-05 11:50:10,233 - root - INFO - Processing frame 2 at 2025-09-05 11:50:10.233105
+2025-09-05 11:50:10,507 - root - INFO - Processing frame 3 at 2025-09-05 11:50:10.507627
+2025-09-05 11:50:10,806 - root - INFO - Ended monitoring session: c981ab82-6b53-4802-8d8a-a19d458d827a
+2025-09-05 11:50:10,808 - root - ERROR - Error getting attendance report: Execution failed on sql '
+                SELECT 
+                    al.student_id,
+                    s.name,
+                    al.attendance_status,
+                    al.confidence_score,
+                    al.timestamp
+                FROM attendance_logs al
+                LEFT JOIN students s ON al.student_id = s.student_id
+                WHERE al.session_id = ?
+                ORDER BY al.timestamp
+            ': Incorrect number of bindings supplied. The current statement uses 1, and there are 0 supplied.
+2025-09-05 11:50:10,816 - root - INFO - Attention report saved: output/attendance_reports\attention_report_c981ab82-6b53-4802-8d8a-a19d458d827a_20250905_115010.csv
+2025-09-05 11:50:10,818 - root - INFO - Session Summary:
+2025-09-05 11:50:10,818 - root - INFO -   session_id: c981ab82-6b53-4802-8d8a-a19d458d827a
+2025-09-05 11:50:10,819 - root - INFO -   session_duration: 0:00:03.094836
+2025-09-05 11:50:10,819 - root - INFO -   total_frames_analyzed: 3
+2025-09-05 11:50:10,819 - root - INFO -   total_students_detected: 1
+2025-09-05 11:50:10,819 - root - INFO -   average_attention_score: 1.0
+2025-09-05 11:50:10,820 - root - INFO -   average_cheating_probability: 0.0
+2025-09-05 11:50:10,820 - root - INFO -   exam_mode: False
+2025-09-05 11:51:31,420 - root - INFO - Face recognition model loaded from models/face_recognition_model.pkl
+2025-09-05 11:51:31,421 - root - INFO - Loaded face recognition model with 39 known faces
+2025-09-05 11:51:31,893 - root - INFO - YOLO model loaded successfully
+2025-09-05 11:51:31,893 - root - INFO - Student Monitoring System initialized successfully
+2025-09-05 11:51:31,904 - root - INFO - Started monitoring session: 965ec1d1-2f08-4e53-a313-bdf62b7dbab0
+2025-09-05 11:51:31,905 - root - INFO - Session type: regular_class, Exam mode: False
+2025-09-05 11:51:32,034 - root - INFO - Processing frame 1 at 2025-09-05 11:51:32.034183
+2025-09-05 11:51:35,706 - root - INFO - No students detected in frame
+2025-09-05 11:51:35,737 - root - INFO - Processing frame 2 at 2025-09-05 11:51:35.737891
+2025-09-05 11:51:35,867 - root - INFO - No students detected in frame
+2025-09-05 11:51:35,894 - root - INFO - Ended monitoring session: 965ec1d1-2f08-4e53-a313-bdf62b7dbab0
+2025-09-05 11:51:35,896 - root - ERROR - Error getting attendance report: Execution failed on sql '
+                SELECT 
+                    al.student_id,
+                    s.name,
+                    al.attendance_status,
+                    al.confidence_score,
+                    al.timestamp
+                FROM attendance_logs al
+                LEFT JOIN students s ON al.student_id = s.student_id
+                WHERE al.session_id = ?
+                ORDER BY al.timestamp
+            ': Incorrect number of bindings supplied. The current statement uses 1, and there are 0 supplied.
+2025-09-05 11:53:52,629 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:53:52] "POST /upload HTTP/1.1" 200 -
+2025-09-05 11:53:52,634 - root - INFO - Face recognition model loaded from models/face_recognition_model.pkl
+2025-09-05 11:53:52,635 - root - INFO - Loaded face recognition model with 39 known faces
+2025-09-05 11:53:52,700 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:53:52] "GET /status/1cb80a52-ae14-4ef3-b6a9-004734064e6b HTTP/1.1" 200 -
+2025-09-05 11:53:53,071 - root - INFO - YOLO model loaded successfully
+2025-09-05 11:53:53,072 - root - INFO - Student Monitoring System initialized successfully
+2025-09-05 11:53:53,079 - root - INFO - Started monitoring session: f38cc52c-233e-4c46-a586-3cee25399781
+2025-09-05 11:53:53,080 - root - INFO - Session type: regular_class, Exam mode: False
+2025-09-05 11:53:54,714 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:53:54] "GET /status/1cb80a52-ae14-4ef3-b6a9-004734064e6b HTTP/1.1" 200 -
+2025-09-05 11:53:55,511 - root - INFO - Processing frame 1 at 2025-09-05 11:53:55.511212
+2025-09-05 11:53:56,732 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:53:56] "GET /status/1cb80a52-ae14-4ef3-b6a9-004734064e6b HTTP/1.1" 200 -
+2025-09-05 11:53:58,450 - root - INFO - Student glen marked present with confidence 1.0
+2025-09-05 11:53:58,757 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:53:58] "GET /status/1cb80a52-ae14-4ef3-b6a9-004734064e6b HTTP/1.1" 200 -
+2025-09-05 11:54:00,781 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:54:00] "GET /status/1cb80a52-ae14-4ef3-b6a9-004734064e6b HTTP/1.1" 200 -
+2025-09-05 11:54:00,992 - root - INFO - Processing frame 2 at 2025-09-05 11:54:00.992395
+2025-09-05 11:54:01,528 - root - INFO - Student shahid marked present with confidence 1.0
+2025-09-05 11:54:02,792 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:54:02] "GET /status/1cb80a52-ae14-4ef3-b6a9-004734064e6b HTTP/1.1" 200 -
+2025-09-05 11:54:03,928 - root - INFO - Processing frame 3 at 2025-09-05 11:54:03.928576
+2025-09-05 11:54:04,814 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:54:04] "GET /status/1cb80a52-ae14-4ef3-b6a9-004734064e6b HTTP/1.1" 200 -
+2025-09-05 11:54:06,759 - root - INFO - Processing frame 4 at 2025-09-05 11:54:06.759381
+2025-09-05 11:54:06,824 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:54:06] "GET /status/1cb80a52-ae14-4ef3-b6a9-004734064e6b HTTP/1.1" 200 -
+2025-09-05 11:54:08,846 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:54:08] "GET /status/1cb80a52-ae14-4ef3-b6a9-004734064e6b HTTP/1.1" 200 -
+2025-09-05 11:54:09,327 - root - INFO - Processing frame 5 at 2025-09-05 11:54:09.327700
+2025-09-05 11:54:09,675 - root - ERROR - Error calculating head pose: math domain error
+2025-09-05 11:54:10,868 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:54:10] "GET /status/1cb80a52-ae14-4ef3-b6a9-004734064e6b HTTP/1.1" 200 -
+2025-09-05 11:54:12,206 - root - INFO - Processing frame 6 at 2025-09-05 11:54:12.206759
+2025-09-05 11:54:12,877 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:54:12] "GET /status/1cb80a52-ae14-4ef3-b6a9-004734064e6b HTTP/1.1" 200 -
+2025-09-05 11:54:14,904 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:54:14] "GET /status/1cb80a52-ae14-4ef3-b6a9-004734064e6b HTTP/1.1" 200 -
+2025-09-05 11:54:14,917 - root - INFO - Processing frame 7 at 2025-09-05 11:54:14.917993
+2025-09-05 11:54:16,928 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:54:16] "GET /status/1cb80a52-ae14-4ef3-b6a9-004734064e6b HTTP/1.1" 200 -
+2025-09-05 11:54:17,461 - root - INFO - Processing frame 8 at 2025-09-05 11:54:17.461888
+2025-09-05 11:54:18,946 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:54:18] "GET /status/1cb80a52-ae14-4ef3-b6a9-004734064e6b HTTP/1.1" 200 -
+2025-09-05 11:54:20,141 - root - INFO - Processing frame 9 at 2025-09-05 11:54:20.141312
+2025-09-05 11:54:20,960 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:54:20] "GET /status/1cb80a52-ae14-4ef3-b6a9-004734064e6b HTTP/1.1" 200 -
+2025-09-05 11:54:22,807 - root - INFO - Processing frame 10 at 2025-09-05 11:54:22.807819
+2025-09-05 11:54:22,980 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:54:22] "GET /status/1cb80a52-ae14-4ef3-b6a9-004734064e6b HTTP/1.1" 200 -
+2025-09-05 11:54:25,005 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:54:25] "GET /status/1cb80a52-ae14-4ef3-b6a9-004734064e6b HTTP/1.1" 200 -
+2025-09-05 11:54:25,377 - root - INFO - Processing frame 11 at 2025-09-05 11:54:25.377648
+2025-09-05 11:54:27,021 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:54:27] "GET /status/1cb80a52-ae14-4ef3-b6a9-004734064e6b HTTP/1.1" 200 -
+2025-09-05 11:54:28,079 - root - INFO - Processing frame 12 at 2025-09-05 11:54:28.079745
+2025-09-05 11:54:28,137 - root - INFO - No students detected in frame
+2025-09-05 11:54:29,041 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:54:29] "GET /status/1cb80a52-ae14-4ef3-b6a9-004734064e6b HTTP/1.1" 200 -
+2025-09-05 11:54:30,624 - root - INFO - Processing frame 13 at 2025-09-05 11:54:30.624207
+2025-09-05 11:54:30,720 - root - INFO - Student reevan marked present with confidence 1.0
+2025-09-05 11:54:31,060 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:54:31] "GET /status/1cb80a52-ae14-4ef3-b6a9-004734064e6b HTTP/1.1" 200 -
+2025-09-05 11:54:33,083 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:54:33] "GET /status/1cb80a52-ae14-4ef3-b6a9-004734064e6b HTTP/1.1" 200 -
+2025-09-05 11:54:33,442 - root - INFO - Processing frame 14 at 2025-09-05 11:54:33.442576
+2025-09-05 11:54:35,099 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:54:35] "GET /status/1cb80a52-ae14-4ef3-b6a9-004734064e6b HTTP/1.1" 200 -
+2025-09-05 11:54:36,252 - root - INFO - Processing frame 15 at 2025-09-05 11:54:36.252640
+2025-09-05 11:54:37,118 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:54:37] "GET /status/1cb80a52-ae14-4ef3-b6a9-004734064e6b HTTP/1.1" 200 -
+2025-09-05 11:54:38,794 - root - INFO - Processing frame 16 at 2025-09-05 11:54:38.794455
+2025-09-05 11:54:39,132 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:54:39] "GET /status/1cb80a52-ae14-4ef3-b6a9-004734064e6b HTTP/1.1" 200 -
+2025-09-05 11:54:41,156 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:54:41] "GET /status/1cb80a52-ae14-4ef3-b6a9-004734064e6b HTTP/1.1" 200 -
+2025-09-05 11:54:41,364 - root - INFO - Processing frame 17 at 2025-09-05 11:54:41.363318
+2025-09-05 11:54:43,175 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:54:43] "GET /status/1cb80a52-ae14-4ef3-b6a9-004734064e6b HTTP/1.1" 200 -
+2025-09-05 11:54:44,044 - root - INFO - Processing frame 18 at 2025-09-05 11:54:44.044639
+2025-09-05 11:54:45,187 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:54:45] "GET /status/1cb80a52-ae14-4ef3-b6a9-004734064e6b HTTP/1.1" 200 -
+2025-09-05 11:54:46,618 - root - INFO - Processing frame 19 at 2025-09-05 11:54:46.618169
+2025-09-05 11:54:46,673 - root - INFO - No students detected in frame
+2025-09-05 11:54:47,206 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:54:47] "GET /status/1cb80a52-ae14-4ef3-b6a9-004734064e6b HTTP/1.1" 200 -
+2025-09-05 11:54:49,110 - root - INFO - Processing frame 20 at 2025-09-05 11:54:49.110365
+2025-09-05 11:54:49,216 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:54:49] "GET /status/1cb80a52-ae14-4ef3-b6a9-004734064e6b HTTP/1.1" 200 -
+2025-09-05 11:54:51,240 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:54:51] "GET /status/1cb80a52-ae14-4ef3-b6a9-004734064e6b HTTP/1.1" 200 -
+2025-09-05 11:54:51,877 - root - INFO - Processing frame 21 at 2025-09-05 11:54:51.877306
+2025-09-05 11:54:51,936 - root - INFO - No students detected in frame
+2025-09-05 11:54:53,254 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:54:53] "GET /status/1cb80a52-ae14-4ef3-b6a9-004734064e6b HTTP/1.1" 200 -
+2025-09-05 11:54:54,331 - root - INFO - Processing frame 22 at 2025-09-05 11:54:54.331653
+2025-09-05 11:54:55,282 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:54:55] "GET /status/1cb80a52-ae14-4ef3-b6a9-004734064e6b HTTP/1.1" 200 -
+2025-09-05 11:54:56,883 - root - INFO - Processing frame 23 at 2025-09-05 11:54:56.883078
+2025-09-05 11:54:57,303 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:54:57] "GET /status/1cb80a52-ae14-4ef3-b6a9-004734064e6b HTTP/1.1" 200 -
+2025-09-05 11:54:59,319 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:54:59] "GET /status/1cb80a52-ae14-4ef3-b6a9-004734064e6b HTTP/1.1" 200 -
+2025-09-05 11:54:59,570 - root - INFO - Processing frame 24 at 2025-09-05 11:54:59.570345
+2025-09-05 11:54:59,629 - root - INFO - No students detected in frame
+2025-09-05 11:55:01,338 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:55:01] "GET /status/1cb80a52-ae14-4ef3-b6a9-004734064e6b HTTP/1.1" 200 -
+2025-09-05 11:55:02,029 - root - INFO - Processing frame 25 at 2025-09-05 11:55:02.029029
+2025-09-05 11:55:03,358 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:55:03] "GET /status/1cb80a52-ae14-4ef3-b6a9-004734064e6b HTTP/1.1" 200 -
+2025-09-05 11:55:04,876 - root - INFO - Processing frame 26 at 2025-09-05 11:55:04.875973
+2025-09-05 11:55:05,374 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:55:05] "GET /status/1cb80a52-ae14-4ef3-b6a9-004734064e6b HTTP/1.1" 200 -
+2025-09-05 11:55:07,398 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:55:07] "GET /status/1cb80a52-ae14-4ef3-b6a9-004734064e6b HTTP/1.1" 200 -
+2025-09-05 11:55:07,623 - root - INFO - Processing frame 27 at 2025-09-05 11:55:07.623304
+2025-09-05 11:55:09,419 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:55:09] "GET /status/1cb80a52-ae14-4ef3-b6a9-004734064e6b HTTP/1.1" 200 -
+2025-09-05 11:55:10,150 - root - INFO - Processing frame 28 at 2025-09-05 11:55:10.150912
+2025-09-05 11:55:11,442 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:55:11] "GET /status/1cb80a52-ae14-4ef3-b6a9-004734064e6b HTTP/1.1" 200 -
+2025-09-05 11:55:12,667 - root - INFO - Processing frame 29 at 2025-09-05 11:55:12.667633
+2025-09-05 11:55:13,467 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:55:13] "GET /status/1cb80a52-ae14-4ef3-b6a9-004734064e6b HTTP/1.1" 200 -
+2025-09-05 11:55:15,111 - root - INFO - Processing frame 30 at 2025-09-05 11:55:15.111221
+2025-09-05 11:55:15,489 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:55:15] "GET /status/1cb80a52-ae14-4ef3-b6a9-004734064e6b HTTP/1.1" 200 -
+2025-09-05 11:55:17,407 - root - INFO - Processing frame 31 at 2025-09-05 11:55:17.407922
+2025-09-05 11:55:17,466 - root - INFO - No students detected in frame
+2025-09-05 11:55:17,512 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:55:17] "GET /status/1cb80a52-ae14-4ef3-b6a9-004734064e6b HTTP/1.1" 200 -
+2025-09-05 11:55:19,534 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:55:19] "GET /status/1cb80a52-ae14-4ef3-b6a9-004734064e6b HTTP/1.1" 200 -
+2025-09-05 11:55:19,805 - root - INFO - Processing frame 32 at 2025-09-05 11:55:19.804572
+2025-09-05 11:55:21,554 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:55:21] "GET /status/1cb80a52-ae14-4ef3-b6a9-004734064e6b HTTP/1.1" 200 -
+2025-09-05 11:55:22,589 - root - INFO - Processing frame 33 at 2025-09-05 11:55:22.589614
+2025-09-05 11:55:23,564 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:55:23] "GET /status/1cb80a52-ae14-4ef3-b6a9-004734064e6b HTTP/1.1" 200 -
+2025-09-05 11:55:25,578 - root - INFO - Processing frame 34 at 2025-09-05 11:55:25.578204
+2025-09-05 11:55:25,588 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:55:25] "GET /status/1cb80a52-ae14-4ef3-b6a9-004734064e6b HTTP/1.1" 200 -
+2025-09-05 11:55:27,608 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:55:27] "GET /status/1cb80a52-ae14-4ef3-b6a9-004734064e6b HTTP/1.1" 200 -
+2025-09-05 11:55:28,169 - root - INFO - Processing frame 35 at 2025-09-05 11:55:28.168427
+2025-09-05 11:55:29,632 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:55:29] "GET /status/1cb80a52-ae14-4ef3-b6a9-004734064e6b HTTP/1.1" 200 -
+2025-09-05 11:55:30,690 - root - INFO - Processing frame 36 at 2025-09-05 11:55:30.690536
+2025-09-05 11:55:30,750 - root - INFO - No students detected in frame
+2025-09-05 11:55:31,655 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:55:31] "GET /status/1cb80a52-ae14-4ef3-b6a9-004734064e6b HTTP/1.1" 200 -
+2025-09-05 11:55:33,210 - root - INFO - Processing frame 37 at 2025-09-05 11:55:33.210476
+2025-09-05 11:55:33,678 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:55:33] "GET /status/1cb80a52-ae14-4ef3-b6a9-004734064e6b HTTP/1.1" 200 -
+2025-09-05 11:55:35,697 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:55:35] "GET /status/1cb80a52-ae14-4ef3-b6a9-004734064e6b HTTP/1.1" 200 -
+2025-09-05 11:55:35,854 - root - INFO - Processing frame 38 at 2025-09-05 11:55:35.854020
+2025-09-05 11:55:37,719 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:55:37] "GET /status/1cb80a52-ae14-4ef3-b6a9-004734064e6b HTTP/1.1" 200 -
+2025-09-05 11:55:38,416 - root - INFO - Processing frame 39 at 2025-09-05 11:55:38.416622
+2025-09-05 11:55:39,734 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:55:39] "GET /status/1cb80a52-ae14-4ef3-b6a9-004734064e6b HTTP/1.1" 200 -
+2025-09-05 11:55:40,950 - root - INFO - Processing frame 40 at 2025-09-05 11:55:40.950286
+2025-09-05 11:55:41,009 - root - INFO - No students detected in frame
+2025-09-05 11:55:41,760 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:55:41] "GET /status/1cb80a52-ae14-4ef3-b6a9-004734064e6b HTTP/1.1" 200 -
+2025-09-05 11:55:43,359 - root - INFO - Processing frame 41 at 2025-09-05 11:55:43.359559
+2025-09-05 11:55:43,779 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:55:43] "GET /status/1cb80a52-ae14-4ef3-b6a9-004734064e6b HTTP/1.1" 200 -
+2025-09-05 11:55:45,802 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:55:45] "GET /status/1cb80a52-ae14-4ef3-b6a9-004734064e6b HTTP/1.1" 200 -
+2025-09-05 11:55:46,113 - root - INFO - Processing frame 42 at 2025-09-05 11:55:46.113420
+2025-09-05 11:55:47,813 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:55:47] "GET /status/1cb80a52-ae14-4ef3-b6a9-004734064e6b HTTP/1.1" 200 -
+2025-09-05 11:55:48,723 - root - INFO - Processing frame 43 at 2025-09-05 11:55:48.723681
+2025-09-05 11:55:49,834 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:55:49] "GET /status/1cb80a52-ae14-4ef3-b6a9-004734064e6b HTTP/1.1" 200 -
+2025-09-05 11:55:51,743 - root - INFO - Processing frame 44 at 2025-09-05 11:55:51.743279
+2025-09-05 11:55:51,857 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:55:51] "GET /status/1cb80a52-ae14-4ef3-b6a9-004734064e6b HTTP/1.1" 200 -
+2025-09-05 11:55:53,870 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:55:53] "GET /status/1cb80a52-ae14-4ef3-b6a9-004734064e6b HTTP/1.1" 200 -
+2025-09-05 11:55:54,361 - root - INFO - Processing frame 45 at 2025-09-05 11:55:54.361084
+2025-09-05 11:55:54,448 - root - INFO - No students detected in frame
+2025-09-05 11:55:55,882 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:55:55] "GET /status/1cb80a52-ae14-4ef3-b6a9-004734064e6b HTTP/1.1" 200 -
+2025-09-05 11:55:56,803 - root - INFO - Processing frame 46 at 2025-09-05 11:55:56.803784
+2025-09-05 11:55:57,904 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:55:57] "GET /status/1cb80a52-ae14-4ef3-b6a9-004734064e6b HTTP/1.1" 200 -
+2025-09-05 11:55:59,542 - root - INFO - Processing frame 47 at 2025-09-05 11:55:59.542392
+2025-09-05 11:55:59,915 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:55:59] "GET /status/1cb80a52-ae14-4ef3-b6a9-004734064e6b HTTP/1.1" 200 -
+2025-09-05 11:56:01,935 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:56:01] "GET /status/1cb80a52-ae14-4ef3-b6a9-004734064e6b HTTP/1.1" 200 -
+2025-09-05 11:56:02,264 - root - INFO - Processing frame 48 at 2025-09-05 11:56:02.264963
+2025-09-05 11:56:03,947 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:56:03] "GET /status/1cb80a52-ae14-4ef3-b6a9-004734064e6b HTTP/1.1" 200 -
+2025-09-05 11:56:04,894 - root - INFO - Processing frame 49 at 2025-09-05 11:56:04.894400
+2025-09-05 11:56:05,958 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:56:05] "GET /status/1cb80a52-ae14-4ef3-b6a9-004734064e6b HTTP/1.1" 200 -
+2025-09-05 11:56:07,274 - root - INFO - Processing frame 50 at 2025-09-05 11:56:07.274472
+2025-09-05 11:56:07,985 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:56:07] "GET /status/1cb80a52-ae14-4ef3-b6a9-004734064e6b HTTP/1.1" 200 -
+2025-09-05 11:56:09,764 - root - INFO - Processing frame 51 at 2025-09-05 11:56:09.764889
+2025-09-05 11:56:09,825 - root - INFO - No students detected in frame
+2025-09-05 11:56:10,009 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:56:10] "GET /status/1cb80a52-ae14-4ef3-b6a9-004734064e6b HTTP/1.1" 200 -
+2025-09-05 11:56:12,024 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:56:12] "GET /status/1cb80a52-ae14-4ef3-b6a9-004734064e6b HTTP/1.1" 200 -
+2025-09-05 11:56:12,175 - root - INFO - Processing frame 52 at 2025-09-05 11:56:12.175794
+2025-09-05 11:56:14,046 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:56:14] "GET /status/1cb80a52-ae14-4ef3-b6a9-004734064e6b HTTP/1.1" 200 -
+2025-09-05 11:56:14,927 - root - INFO - Processing frame 53 at 2025-09-05 11:56:14.927249
+2025-09-05 11:56:16,067 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:56:16] "GET /status/1cb80a52-ae14-4ef3-b6a9-004734064e6b HTTP/1.1" 200 -
+2025-09-05 11:56:17,432 - root - INFO - Processing frame 54 at 2025-09-05 11:56:17.432968
+2025-09-05 11:56:18,092 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:56:18] "GET /status/1cb80a52-ae14-4ef3-b6a9-004734064e6b HTTP/1.1" 200 -
+2025-09-05 11:56:20,104 - root - INFO - Processing frame 55 at 2025-09-05 11:56:20.104704
+2025-09-05 11:56:20,115 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:56:20] "GET /status/1cb80a52-ae14-4ef3-b6a9-004734064e6b HTTP/1.1" 200 -
+2025-09-05 11:56:20,167 - root - INFO - No students detected in frame
+2025-09-05 11:56:22,140 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:56:22] "GET /status/1cb80a52-ae14-4ef3-b6a9-004734064e6b HTTP/1.1" 200 -
+2025-09-05 11:56:22,549 - root - INFO - Processing frame 56 at 2025-09-05 11:56:22.549139
+2025-09-05 11:56:24,162 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:56:24] "GET /status/1cb80a52-ae14-4ef3-b6a9-004734064e6b HTTP/1.1" 200 -
+2025-09-05 11:56:25,251 - root - INFO - Processing frame 57 at 2025-09-05 11:56:25.251684
+2025-09-05 11:56:26,186 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:56:26] "GET /status/1cb80a52-ae14-4ef3-b6a9-004734064e6b HTTP/1.1" 200 -
+2025-09-05 11:56:27,792 - root - INFO - Processing frame 58 at 2025-09-05 11:56:27.792385
+2025-09-05 11:56:28,205 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:56:28] "GET /status/1cb80a52-ae14-4ef3-b6a9-004734064e6b HTTP/1.1" 200 -
+2025-09-05 11:56:30,230 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:56:30] "GET /status/1cb80a52-ae14-4ef3-b6a9-004734064e6b HTTP/1.1" 200 -
+2025-09-05 11:56:30,451 - root - INFO - Processing frame 59 at 2025-09-05 11:56:30.451619
+2025-09-05 11:56:32,254 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:56:32] "GET /status/1cb80a52-ae14-4ef3-b6a9-004734064e6b HTTP/1.1" 200 -
+2025-09-05 11:56:33,115 - root - INFO - Processing frame 60 at 2025-09-05 11:56:33.115215
+2025-09-05 11:56:34,265 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:56:34] "GET /status/1cb80a52-ae14-4ef3-b6a9-004734064e6b HTTP/1.1" 200 -
+2025-09-05 11:56:35,675 - root - INFO - Processing frame 61 at 2025-09-05 11:56:35.675828
+2025-09-05 11:56:36,287 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:56:36] "GET /status/1cb80a52-ae14-4ef3-b6a9-004734064e6b HTTP/1.1" 200 -
+2025-09-05 11:56:38,214 - root - INFO - Processing frame 62 at 2025-09-05 11:56:38.214389
+2025-09-05 11:56:38,297 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:56:38] "GET /status/1cb80a52-ae14-4ef3-b6a9-004734064e6b HTTP/1.1" 200 -
+2025-09-05 11:56:40,313 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:56:40] "GET /status/1cb80a52-ae14-4ef3-b6a9-004734064e6b HTTP/1.1" 200 -
+2025-09-05 11:56:40,703 - root - INFO - Processing frame 63 at 2025-09-05 11:56:40.703683
+2025-09-05 11:56:42,324 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:56:42] "GET /status/1cb80a52-ae14-4ef3-b6a9-004734064e6b HTTP/1.1" 200 -
+2025-09-05 11:56:43,539 - root - INFO - Processing frame 64 at 2025-09-05 11:56:43.539436
+2025-09-05 11:56:44,344 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:56:44] "GET /status/1cb80a52-ae14-4ef3-b6a9-004734064e6b HTTP/1.1" 200 -
+2025-09-05 11:56:46,083 - root - INFO - Processing frame 65 at 2025-09-05 11:56:46.083486
+2025-09-05 11:56:46,362 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:56:46] "GET /status/1cb80a52-ae14-4ef3-b6a9-004734064e6b HTTP/1.1" 200 -
+2025-09-05 11:56:48,377 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:56:48] "GET /status/1cb80a52-ae14-4ef3-b6a9-004734064e6b HTTP/1.1" 200 -
+2025-09-05 11:56:48,634 - root - INFO - Processing frame 66 at 2025-09-05 11:56:48.633219
+2025-09-05 11:56:49,510 - root - INFO - Ended monitoring session: f38cc52c-233e-4c46-a586-3cee25399781
+2025-09-05 11:56:49,513 - root - ERROR - Error getting attendance report: Execution failed on sql '
+                SELECT 
+                    al.student_id,
+                    s.name,
+                    al.attendance_status,
+                    al.confidence_score,
+                    al.timestamp
+                FROM attendance_logs al
+                LEFT JOIN students s ON al.student_id = s.student_id
+                WHERE al.session_id = ?
+                ORDER BY al.timestamp
+            ': Incorrect number of bindings supplied. The current statement uses 1, and there are 0 supplied.
+2025-09-05 11:56:49,534 - root - INFO - Attention report saved: output/attendance_reports\attention_report_f38cc52c-233e-4c46-a586-3cee25399781_20250905_115649.csv
+2025-09-05 11:56:49,535 - root - INFO - Session Summary:
+2025-09-05 11:56:49,535 - root - INFO -   session_id: f38cc52c-233e-4c46-a586-3cee25399781
+2025-09-05 11:56:49,535 - root - INFO -   session_duration: 0:02:56.463073
+2025-09-05 11:56:49,535 - root - INFO -   total_frames_analyzed: 56
+2025-09-05 11:56:49,536 - root - INFO -   total_students_detected: 3
+2025-09-05 11:56:49,536 - root - INFO -   average_attention_score: 0.5231092436974794
+2025-09-05 11:56:49,536 - root - INFO -   average_cheating_probability: 0.0
+2025-09-05 11:56:49,536 - root - INFO -   exam_mode: False
+2025-09-05 11:56:50,400 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 11:56:50] "GET /status/1cb80a52-ae14-4ef3-b6a9-004734064e6b HTTP/1.1" 200 -
+2025-09-05 12:03:02,140 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 12:03:02] "GET /gallery HTTP/1.1" 200 -
+2025-09-05 12:10:26,811 - werkzeug - INFO - 127.0.0.1 - - [05/Sep/2025 12:10:26] "GET /download/report_1cb80a52-ae14-4ef3-b6a9-004734064e6b_20250905_115649.json HTTP/1.1" 200 -

@@ -1,0 +1,16 @@
+{
+  "session_id": "e3c708ec-005b-45d2-9f4c-4209404db7c0",
+  "session_type": "regular",
+  "session_duration": "N/A",
+  "total_frames_analyzed": 0,
+  "total_students_detected": 0,
+  "overall_statistics": {
+    "average_attention_score": 0,
+    "average_cheating_probability": 0,
+    "total_analysis_frames": 0
+  },
+  "student_analyses": {},
+  "attendance_data": {},
+  "frame_analysis_results": [],
+  "generated_at": "2025-09-05T09:10:01.534151"
+}
